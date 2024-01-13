@@ -1,4 +1,7 @@
-# Just the Class
+# CS10 Fall 2023 [https://cs10.org/fa23]()
+---
+
+### Just The Class Info
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 

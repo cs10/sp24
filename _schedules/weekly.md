@@ -1,4 +1,5 @@
 ---
+
 timeline:
   - '7:00 AM'
   - '7:30 AM'
@@ -34,103 +35,116 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Live Session
-        start: 11:00 AM
-        end: 12:00 PM
-        location: Zoom
-      - name: Lab Maddie
+      - name: Lab Ben
+        start: 8:00 AM
+        end: 10:00 AM
+        location: Sutardja 200
+      - name: Lab Brendan
         start: 9:00 AM
         end: 11:00 AM
         location: Discord
-      - name: Discussion Ze
+      - name: Lecture
+        start: 10:00 AM
+        end: 11:00 AM
+        location: Zoom
+      - name: Lab Vaibhav
         start: 12:00 PM
-        end: 1:00 PM
-        location: Zoom
-      - name: Ze Office Hours
+        end: 2:00 PM
+        location: Sutardja 200
+      - name: Lab Nick
         start: 2:00 PM
-        end: 3:00 PM
-        location: Discord
-      - name: Lab Jake
-        start: 3:00 PM
-        end: 5:00 PM
-        location: Discord
-      - name: Discussion Nick
-        start: 6:00 PM
-        end: 7:00 PM
-        location: Zoom
+        end: 4:00 PM
+        location: Sutardja 200
+      - name: Lab Sarah and Remote Lab Yishu
+        start: 12:00 PM
+        end: 2:00 PM
+        location: Sarah's in Sutardja 200 and Yishu's on Discord
   - name: Tuesday
     events:
-      - name: Discussion Maddie
-        start: 9:00 AM
+      - name: Lab Jake
+        start: 8:00 AM
         end: 10:00 AM
-        location: Zoom
-      - name: Ze Office Hours
+        location: Sutardja 200
+      - name: Lab Kellyann
+        start: 10:00 AM
+        end: 12:00 PM
+        location: Sutardja 200
+      - name: Lab Arrushi
         start: 12:00 PM
-        end: 1:00 PM
-        location: Discord
-      - name: Lab Ze
-        start: 1:00 PM
-        end: 3:00 PM
-        location: Discord
-      - name: Discussion Jake
-        start: 4:00 PM
-        end: 5:00 PM
-        location: Zoom
-      - name: Jake Office Hours
-        start: 3:00 PM
-        end: 3:30 PM
-      - name: Lab Nick
-        start: 6:00 PM
-        end: 8:00 PM
-        location: Discord
+        end: 2:00 PM
+        location: Sutardja 200
   - name: Wednesday
     events:
-      - name: Live Session
-        start: 11:00 AM
-        end: 12:00 PM
+      - name: Lecture
+        start: 10:00 AM
+        end: 11:00 AM
         location: Zoom
-      - name: Lab Maddie
+      - name: Lab Ben
+        start: 8:00 AM
+        end: 10:00 AM
+        location: Sutardja 200
+      - name: Lab Brendan
         start: 9:00 AM
         end: 11:00 AM
         location: Discord
-      - name: Discussion Ze
+      - name: Lab Ze
+        start: 10:00 AM
+        end: 12:00 PM
+        location: Sutardja 200
+      - name: Lab Vaibhav
         start: 12:00 PM
-        end: 1:00 PM
-        location: Zoom
-      - name: Maddie Office Hours
+        end: 2:00 PM
+        location: Sutardja 200
+      - name: Lab Nick
         start: 2:00 PM
-        end: 3:00 PM
-        location: Discord
-      - name: Lab Jake
-        start: 3:00 PM
-        end: 5:00 PM
-        location: Discord
-      - name: Discussion Nick
-        start: 6:00 PM
-        end: 7:00 PM
-        location: Zoom
+        end: 4:00 PM
+        location: Sutardja 200
+      - name: Lab Sarah and Remote Lab Yishu
+        start: 12:00 PM
+        end: 2:00 PM
+        location: Sarah's in Sutardja 200 and Yishu's on Discord
   - name: Thursday
     events:
-      - name: Lab Ze
-        start: 1:00 PM
-        end: 3:00 PM
-        location: Discord
-      - name: Discussion Jake
-        start: 4:00 PM
-        end: 5:00 PM
-        location: Zoom
-      - name: Lab Nick
-        start: 6:00 PM
-        end: 8:00 PM
-        location: Discord
+      - name: Lab Jake
+        start: 8:00 AM
+        end: 10:00 AM
+        location: Sutardja 200
+      - name: Lab Kellyann
+        start: 10:00 AM
+        end: 12:00 PM
+        location: Sutardja 200
+      - name: Lab Arrushi
+        start: 12:00 PM
+        end: 2:00 PM
+        location: Sutardja 200
   - name: Friday
     events:
-      - name: Discussion Maddie
+      - name: Discussion Vedansh
         start: 9:00 AM
         end: 10:00 AM
+        location: TBD
+      - name: Discussion Brendan
+        start: 10:00 AM
+        end: 11:00 AM
         location: Zoom
-      - name: Nick Office Hours
-        start: 5:00 PM
-        end: 6:00 PM
-        location: Discord
+      - name: Discussion Maddie
+        start: 11:00 AM
+        end: 12:00 PM
+        location: Moffit 103
+      - name: Lab Ze
+        start: 10:00 AM
+        end: 12:00 PM
+        location: Sutardja 200
+      - name: Discussion Deeksha
+        start: 1:00 PM
+        end: 2:00 PM
+        location: Wheeler 103
+      - name: Discussion Deeksha
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Wheeler 130
+      - name: Discussion Vedansh
+        start: 4:00 PM
+        end: 5:00 PM
+        location: Wheeler 20
 ---

@@ -1,21 +1,21 @@
 ---
-title: More Fun Topics
+title: Week 7 (Oct 4 - Oct 10)
 ---
 
-Aug 2
-: **Lecture**{: .label .label-assignment } History of Cryptography
-  : **Assignment**{: .label .label-assignment } [Final Project](https://docs.google.com/document/d/e/2PACX-1vS2apHT8NUE_X8qcU2mTuttBrOTlr7dg55kuz30KxW3LudwuoellfdgPx2UV73nmyMpUB7tKhhP8BRD/pub) **due Friday, August 6th**
+**Lecture**{: .label .label-lecture }
+: Mon --- Social Implications of Computing II [Samhita's slides](https://docs.google.com/presentation/d/1wSTFNhx0UtptZZXPhTRIIh8s3xJr8FgXi1JgJY061c0/edit?usp=sharing) \| [Hug's slides](https://docs.google.com/presentation/d/17HNhrIf4Sz9D5iECNLPa5M1Clc_YZifej5SylIJy4oI/edit?usp=sharing) \| [recording](https://drive.google.com/file/d/1oW3LpzEG2R6gDLvdy4QHaVE9njCxf3aY/view?usp=sharing)
+: Wed --- Recursion III [slides](https://docs.google.com/presentation/d/1UomamSMhWz1kM2Yysev8T9MTPqebzPI-NAd8DB3vkBQ/edit?usp=sharing) \| [recording pt.1](https://drive.google.com/file/d/138yonjudwl3-SG_9T55qTfUZpIivJnBR/view?usp=sharing) [recording pt.2](https://drive.google.com/file/d/1bRC6T0l6OQJamr_tuxssEV-Sy1YwWV03/view?usp=sharing)
 
-Aug 3
-: **Lab**{: .label .label-lab } [Snap! and Python Libraries](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_su21.html&novideo&noreading&noassignment)
-: **Discussion**{: .label .label-lab } [Final Exam Review](https://drive.google.com/file/d/14bvlbSRr_Fz5qHB0uihBOLWwmosUMD9w/view?usp=sharing)
+**Lab**{: .label .label-lab }
+: Mon/Tues --- [Recursive Reporters](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
+: Wed/Thurs --- Project 3 Work Session
 
-Aug 4
-: **Lecture**{: .label .label-assignment } Guest Lecture IV
+**Disc**{: .label .label-discussion }
+: Fri --- Recursion II [worksheet](https://drive.google.com/file/d/1ItFhT7J3JtXIHN0XTeQh5JpnyoEtWygf/view?usp=sharing) \| [solutions](https://drive.google.com/file/d/1JnBB8E-xXzvJAfVjEnakQSdVeQrWBUAx/view?usp=sharing)
 
-Aug 5
-: **Lab**{: .label .label-lab } Final Project Work Session
-: **Discussion**{: .label .label-discussion } Final Review
+**Project**{: .label .label-project }
+: Mon/Tues --- Project 3 Parties!
+: Thurs --- Proj 3 due
 
-Aug 6
-: **Lecture**{: .label .label-assignment } Limits of Computing
+**Reading**{: .label .label-reading }
+: [Connected, but alone?](https://www.youtube.com/watch?v=t7Xr3AsBEK4)

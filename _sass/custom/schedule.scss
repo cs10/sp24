@@ -1,3 +1,35 @@
+.schedule-table {
+  border-collapse: collapse;
+
+  td {
+    text-align: center;
+  }
+
+  // just-the-docs classes
+  tbody tr:last-of-type th, tbody tr:last-of-type td,
+  th, td {
+    padding: 0.2rem;
+    min-width: 0px; // Override just-the-docs
+    border: 1.5px solid #3B7EA1;
+  }
+
+  thead > tr > th {
+    background-color: #DDD5C7;
+  }
+
+  tr.today {
+    border: 3px solid gold;
+  }
+
+  tr.even {
+    background-color:rgba(0, 0, 0, .5);
+  }
+
+  .schedule-week-num {
+    width: 5ch;
+  }
+}
+
 .schedule {
   @include abstract-card();
   overflow-x: scroll;
@@ -92,40 +124,61 @@
       @extend .fs-2;
     }
 
-    &.live-session {
-      background-color: #2d8cff;
+    &.lecture {
+      background-color: #de8c8c;
     }
 
-    &.lab-maddie {
-      background-color: #7289da;
+
+    &.lab-ben {
+      background-color: $purple-000;
     }
 
-    &.lab-ze {
-      background-color: #7289da;
+    &.lab-brendan {
+      background-color: $purple-000;
+    }
+
+    &.lab-vaibhav {
+      background-color: $purple-000;
     }
 
     &.lab-nick {
-      background-color: #7289da;
+      background-color: $purple-000;
+    }
+
+    &.lab-sarah-and-remote-lab-yishu {
+      background-color: $purple-000;
     }
 
     &.lab-jake {
-      background-color: #7289da;
+      background-color: $purple-000;
+    }
+
+    &.lab-kellyann {
+      background-color: $purple-000;
+    }
+
+    &.lab-arrushi {
+      background-color: $purple-000;
+    }
+
+    &.lab-ze{
+      background-color: $purple-000;
+    }
+
+    &.discussion-vedansh {
+      background-color: #91c997;
+    }
+
+    &.discussion-brendan {
+      background-color: #91c997;
     }
 
     &.discussion-maddie {
-      background-color: #50288c;
+      background-color: #91c997;
     }
 
-    &.discussion-ze {
-      background-color: #50288c;
-    }
-
-    &.discussion-jake {
-      background-color: #50288c;
-    }
-
-    &.discussion-nick {
-      background-color: #50288c;
+    &.discussion-deeksha {
+      background-color: #91c997;
     }
   }
 }

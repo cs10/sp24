@@ -1,22 +1,23 @@
 ---
-title: More Programming Topics
+title: Week 5 (Sept 20 - Sept 26)
 ---
 
-July 19
-: **Lecture**{: .label .label-assignment } Guest Lecture: Intro to Data Science
-  : **Assignment**{: .label .label-assignment } [Project 3: 2048](https://docs.google.com/document/d/e/2PACX-1vR6PzuXmBI8tfOh2UvnknBCTeSjzBX3rl-rf1MgSV9d0GrOF3xJNkqwCoM618z4XkFUa3bMw033wHd5/pub) **due Friday, July 23rd**
+**Lecture**{: .label .label-lecture }
+: Mon --- Social Implications of Computing I [slides](https://docs.google.com/presentation/d/1rT1gZqidbGktflV2ASPMyXRd84hqJWgFIBl5fpvMQdc/edit?usp=sharing) \| [recording](https://drive.google.com/file/d/1ViVPzUIphT8GnQrg9T_Ks8QLk35lUVah/view?usp=sharing)
+: Wed --- Testing and 2048 [slides](https://docs.google.com/presentation/d/1I7f8IFKAsDyG21AzVQstnue2rkJ8g7RiMSmrgzZkFSc/edit?usp=sharing) \| [recording](https://drive.google.com/file/d/1PPaCAWwr-UPEnOTQBSLN2knwEQPPLv3Q/view?usp=sharing)
 
-July 20
-: **Lab**{: .label .label-lab } [Higher-Order Functions](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/hofs-practice.topic&course=cs10_su21.html&novideo&noreading&noassignment)
-: **Discussion**{: .label .label-discussion } [HOFs, Lambdas, and Tree Recursion](https://drive.google.com/file/d/14jLscD9c-i1RM21LuyAQHnbaBnenwX8o/view?usp=sharing)
+**Lab**{: .label .label-lab }
+: Mon/Tues --- [Algorithmic Complexity](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=cs10_sp21.html&novideo&noreading&noassignment&course=cs10_fa21.html&novideo&noreading&noassignment)
+: Wed/Thurs --- [Testing & Project 3](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 
-July 21
-: **Lecture**{: .label .label-assignment } Social Implications II
+**Disc**{: .label .label-discussion }
+: Fri - Algorithmic Complexity [worksheet](https://drive.google.com/file/d/1sG6rMepSVZO3YEaM90bfkuNzPvUfNC2O/view?usp=sharing) \| [solutions](https://drive.google.com/file/d/18CNw0qe33k5dsIEGzRqAnadujGhkWz7O/view?usp=sharing)
 
-July 22
-: **Lab**{: .label .label-lab } [Intro to Data Science](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=cs10_su21.html&novideo&noreading&noassignment)
-: **Discussion**{: .label .label-discussion } Social Implications of Computer Science
+**Project**{: .label .label-project }
+: Tues --- Project 2 due [spec](https://docs.google.com/document/d/1WFpg_pramTyfLoMeoOpxlmz5xXJBlHzbN36yKP8rfc4/edit?usp=sharing)
+: Wed --- Project 3 is released! [spec](https://docs.google.com/document/d/1fd5che5Rt00Q-jFO_3erjReEAbSu42mG7lRa9Oru6kE/edit?usp=sharing)
 
-July 23
-: **Lecture**{: .label .label-assignment } Algorithms
-  : **Assignment**{: .label .label-assignment } [Final Project Proposal](https://docs.google.com/document/d/e/2PACX-1vS_PMzbFMxTHawxfy5k5QrEMnIr1wvhehAQonGkqlKeNF6Hj62sIa5nbSWimbjZUBil2v-DFJ73kWEL/pub) **due Sunday, July 25th**
+**Reading**{: .label .label-reading }
+: [Gordon Moore Reflects on 50 Years of Moore's Law](https://spectrum.ieee.org/gordon-moore-the-man-whose-name-means-progress#toggle-gdpr)
+: [E-Waste Republic](https://interactive.aljazeera.com/aje/2015/ewaste/index.html)
+: quiz due Friday by midnight

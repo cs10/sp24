@@ -8,6 +8,37 @@
 @import 'staffer';
 
 // Overrides
+
+@media (min-width: 66.5rem) {
+  .side-bar {
+     width: 264px;
+  }
+}
+
+@media (min-width: 50rem) {
+  .main {
+      position: relative;
+      max-width: 100% !important;
+      margin-left: 264px;
+  }
+}
+
+@media (min-width: 66.5rem) {
+  .main {
+    margin-left: 264px
+  }
+}
+
+.main-content-wrap {
+  max-width: calc(100% - 3rem) !important;
+  margin: auto;
+  }
+
+
+
+
+
+
 a abbr[title] {
   border-bottom: none;
 }
@@ -57,7 +88,7 @@ summary {
 }
 
 .main-content-wrap {
-  max-width: $content-width;
+  // max-width: $content-width;
   margin: auto;
 }
 
@@ -125,34 +156,45 @@ summary {
   }
 }
 
+.btn-survey {
+  @include btn-color($white, #800080);
+}
+
 .btn-zoom {
-  @include btn-color($white, #2d8cff);
+  @include btn-color($white, #67ab79);
 }
 
-.btn-discord {
-  @include btn-color($white, #7289da);
-}
-
-.btn-ed {
-  @include btn-color($white, #50288c);
+.btn-lecture {
+  @include btn-color($white, #88aed0);
 }
 
 .btn-gradescope {
   @include btn-color($white, #1b6e67);
 }
 
-.label-livesession {
-  background-color: #2d8cff;
+.label-reading {
+  background-color: #536bb4;
 }
 
-.label-lab {
-  background-color: #7289da;
+.label-lecture {
+  background-color: #c42423;
 }
 
 .label-discussion {
-  background-color: #50288c;
+  background-color: #e3a83b;
 }
 
-.label-assignment {
-  background-color: #1b6e67;
+.label-project {
+  background-color: #3f9e09;
+}
+
+.label-lab {
+  background-color: #cb670e;
+}
+
+.label-exam {
+  background-color: #94949a;
+}
+.label-surveyItem {
+  background-color: #800080;
 }

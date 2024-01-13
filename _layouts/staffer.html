@@ -22,6 +22,9 @@
     {% if page.office-hours %}
     <p class="staffer-meta">Office Hours: {{ page.office-hours | markdownify | strip_html }}</p>
     {% endif %}
+    {% if page.name == "Mehul Gandhi"%}
+    <br/><form onsubmit="event.preventDefault();if(this.pass.value == 'Anya' || this.pass.value == 'anya'){this.parentElement.innerHTML = 'Kawaii!'; document.body.style.background = 'url(https://media.tenor.com/UYxyzzND5OEAAAAC/anime-spy-x-family.gif)'; document.body.style['background-size'] = '10em'; var style = document.createElement('style');style.textContent = '@keyframes spin { 100% { transform:rotate(360deg); } }';document.head.appendChild(style);var entries = document.getElementsByClassName('main')[0].getElementsByClassName('main-content-wrap')[0].getElementsByClassName('main-content')[0].getElementsByClassName('role');Array.from(entries).forEach(function(element) {element.style.backdropFilter = 'blur(0.3em)'; });var imageElements = document.querySelectorAll('.staffer-image');imageElements.forEach(function(element) {element.style.animation = 'spin 4s linear infinite';});} else {this.pass.value=''}">Secret Word: <input type="text" name="pass"><input type="submit" value="Submit"></form>
+    {% endif %}
     {{ content }}
   </div>
 </div>

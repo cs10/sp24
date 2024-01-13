@@ -1,21 +1,27 @@
 ---
-title: Midterm + More Advanced Python
+title: Week 4 (Sept 13 - Sept 19)
 ---
 
-July 12
-: **Exam**{: .label .label-assignment } **Midterm**
-  : **Project**{: .label .label-assignment } [Project 3: 2048](https://docs.google.com/document/d/e/2PACX-1vR6PzuXmBI8tfOh2UvnknBCTeSjzBX3rl-rf1MgSV9d0GrOF3xJNkqwCoM618z4XkFUa3bMw033wHd5/pub) **due Friday, July 23rd**
+**Lecture**{: .label .label-lecture }
+: Mon --- Algorithms [slides](https://docs.google.com/presentation/d/1Xmm6iYL7MtIQIJ1JXHqDy8kdMVAejViRfH5swfLbNJ4/edit?usp=sharing) \| [recording](https://drive.google.com/drive/folders/1zeRu15cre7L6apbzYO6CNZDTN477xqK8?usp=sharing)
+: Wed --- Algorithmic Complexity [slides](https://docs.google.com/presentation/d/1qqrLSPWYtqC5fnhXfmPgvZUxRWSiq_IN0iCTOS95JaA/edit?usp=sharing) \| [recording](https://drive.google.com/file/d/15-yFvTWWddugKt1zubyNb9OWl6g8wioj/view?usp=sharing)
 
-July 13
-: **Lab**{: .label .label-lab } [Data Structures](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=cs10_fa20.html&novideo&noreading&noassignment)
-: **Discussion**{: .label .label-discussion } [Data Structures](https://drive.google.com/file/d/16-mXsfrPKVnxk3SLD1Yq45snypkP07k8/view?usp=sharing)
+**Exam**{: .label .label-exam }
+: Tues --- Quest
 
-July 14
-: **Lecture**{: .label .label-assignment } [Object-Oriented Programming](https://www.gradescope.com/courses/274391/assignments/1372243)
+**Lab**{: .label .label-lab }
+: Mon --- [Algorithms](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
+: Wed/Thurs --- Work Session
 
-July 15
-: **Lab**{: .label .label-lab } [Project 3 Intro + OOP](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048_python-su21.topic&course=cs10_su21.html&novideo&noreading&noassignment)
-: **Discussion**{: .label .label-discussion } [Object-Oriented Programming](https://drive.google.com/file/d/1x5Jd1DgB_yMQyLfF2P06GkjpixRl6ff1/view?usp=sharing)
+**Disc**{: .label .label-discussion }
+: Fri --- Algorithms and Quest Rehash [worksheet](https://drive.google.com/file/d/1UfHtqyvbWv8J7QugxI8X9wsc6b8RqGjv/view?usp=sharing) \| [solutions](https://drive.google.com/file/d/1ouQesWL8SwjjsThXOWW9fbIlj6HBy5kE/view?usp=sharing)
 
-July 16
-: **Lecture**{: .label .label-assignment } [Higher-Order Functions](https://www.gradescope.com/courses/274391/assignments/1372260)
+**Project**{: .label .label-project }
+: Project 2 [spec](https://docs.google.com/document/d/1WFpg_pramTyfLoMeoOpxlmz5xXJBlHzbN36yKP8rfc4/edit?usp=sharing)
+: Thurs --- Project 2 Party
+
+**Reading**{: .label .label-Reading }
+: [What is an Algorithm?](https://www.sciencenewsforstudents.org/article/explainer-what-is-an-algorithm)
+: [How Algorithms Shape Our World](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world/up-next)
+: [Algorithms are Great and All, But They Can Also Ruin Lives](https://news.ycombinator.com/item?id=8630311)
+: quiz due Friday by midnight

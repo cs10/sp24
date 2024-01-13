@@ -1,20 +1,22 @@
 ---
-title: Special Topics and Social Implications
+title: Week 6 (Sept 27 - Oct 3)
 ---
 
-July 26
-: **Lecture**{: .label .label-assignment } Algorithmic Complexity
-  : **Assignment**{: .label .label-assignment } [Final Project](https://docs.google.com/document/d/e/2PACX-1vS2apHT8NUE_X8qcU2mTuttBrOTlr7dg55kuz30KxW3LudwuoellfdgPx2UV73nmyMpUB7tKhhP8BRD/pub) **due Friday, August 6th**
+**Lecture**{: .label .label-lecture }
+: Mon --- Recursion I [slides](https://docs.google.com/presentation/d/1uwGIeJURc1U6K8I4g_C2T_Lu-9kgwt7sciHZY0O2Pxs/edit?usp=sharing) \| [recording](https://drive.google.com/file/d/1_4LBbjYEwQEH-Kho34Gp53YyOn0lapwe/view?usp=sharing)
+: Wed --- Recursion II [slides](https://docs.google.com/presentation/d/1RiaZ6nElMpHBZtWEN14sEXobnT1bGjeF3QTRrxyR8yQ/edit?usp=sharing) \| [recording](https://drive.google.com/file/d/1cw19m2wTCEJrq_prF0Beqj-1LkzuYpep/view?usp=sharing)
 
-July 27
-: **Lab**{: .label .label-lab } Algorithms
-: **Discussion**{: .label .label-discussion } [Algorithms + Algorithmic Complexity](https://drive.google.com/file/d/1Ka5gCjv61oLOpjIhzo7pxgWWLzxh_1nq/view?usp=sharing)
-July 28
-: **Lecture**{: .label .label-assignment } Number Representation
+**Lab**{: .label .label-lab }
+: Mon/Tues --- [Boards](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
+: Wed/Thurs --- [Trees and Fractals](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 
-July 29
-: **Lab**{: .label .label-lab } Final Project Work Session
-: **Discussion**{: .label .label-discussion } [Number Representation](https://drive.google.com/file/d/1IRI3pZDasMBPyy1RBvT-32kbNYC3LpRu/view?usp=sharing)
+**Disc**{: .label .label-discussion }
+: Fri --- Intro to Recursion [worksheet](https://drive.google.com/file/d/1Er23a6vSllONQHm99eVpikl9RMboiOey/view?usp=sharing) \| [solutions](https://drive.google.com/file/d/1S28B8m7-b6QrpZQJ0kFY43Te3vqvlQsB/view?usp=sharing)
 
-July 30
-: **Lecture**{: .label .label-assignment } Guest Lecture: Saving the World with Computing, by [Kathy Yelick](https://www2.eecs.berkeley.edu/Faculty/Homepages/yelick.html)
+**Project**{: .label .label-project }
+: Project 3 [spec](https://docs.google.com/document/d/1fd5che5Rt00Q-jFO_3erjReEAbSu42mG7lRa9Oru6kE/edit?usp=sharing)
+
+**Reading**{: .label .label-reading }
+: [Blown to Bits: Chapter 1](http://cs10.org/sp19/resources/readings/btb/chapter1.pdf)
+: [Big O Notation — Simply explained](https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/)
+: quiz due Friday by midnight
