@@ -34,13 +34,13 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 1</td>
       <td>Welcome to Snap!</td>
-      <td><a href="https://docs.google.com/document/d/1KUWjNNzFtBg3EGYuTAd422l7F1lxLbTy-LAsIy3rqV4/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://docs.google.com/document/d/1bF-aab1932JTPI-c3SJe2m4YawGOVz_M96JVpe-7qM0/edit?usp=sharing">Solutions</a></td>
-      <td><a href="https://drive.google.com/file/d/1Y_cOc3cMXZDUkS-RSrqiVByzF3syVp6k/view?usp=sharing">Recording</a></td>
-      <td><a href="https://drive.google.com/file/d/1rN0U2r--Pe7_V9PZojDS7QEM-lbE_GNx/view?usp=sharing">Slides</a></td>
+      <td><a href="">Worksheet</a></td>
+      <td><a href="">Solutions</a></td>
+      <td><a href="">Recording</a></td>
+      <td><a href="">Slides</a></td>
     </tr>
     <tr>
-      <td>Discussion 2</td>
+      <!-- <td>Discussion 2</td>
       <td>Number Representation, Control, Iteration, Booleans</td>
       <td><a href="https://docs.google.com/document/d/1_0umtodNf-ZmHfsGTT7XJZJDDlmlH-hxSjw5tVCacZ8/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/1YoEWBUgBTKb3up2FKYxCjqHxfZzVCwbO2l372RXidOI/edit?usp=sharing">Solutions</a></td>
@@ -143,7 +143,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://docs.google.com/document/d/1RYIaDYGUu5RT3LK0yEbtH30I7BR4MlYyCxCJ1og1ClY/edit?usp=sharing">Solutions</a><br/></td>
       <td>NO Recording</td>
       <td>NO Slides</td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 

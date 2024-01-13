@@ -28,16 +28,16 @@ All times below are in PST. Please add "berkeley.edu" at the end of all emails.
 
 
 Welcome to CS10: The Beauty and Joy of Computing! <br /><br />
-We’re really excited to have you on board with us this Fall for a gentle, but thorough introduction to Computer Science. Our course will start out in the block-based language Snap<em>!</em>, but will transition into Python once you've learned some fundamentals of programming. By the end of the course, we hope you'll walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
+We’re really excited to have you on board with us this Spring for a gentle, but thorough introduction to Computer Science. Our course will start out in the block-based language Snap<em>!</em>, but will transition into Python once you've learned some fundamentals of programming. By the end of the course, we hope you'll walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
 
 
 ## Platforms
 
 
-This Fall, CS10 will run fully in-person. Consequently, remote (or hybrid) students can not be supported.
+This Spring, CS10 will run fully in-person. Consequently, remote (or hybrid) students can not be supported.
 
 
-* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/fa23/schedule/) to find the times/locations for all synchronous course engagements.
+* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/sp24/schedule/) to find the times/locations for all synchronous course engagements.
 * **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem.
 * **Gradescope**: This is where you will submit Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem.
 * **BCourses**: Lecture recordings can be found on Bcourses under `Media Gallery` Typically, they are uploaded by midnight the day of lecture.
@@ -47,7 +47,7 @@ This Fall, CS10 will run fully in-person. Consequently, remote (or hybrid) stude
 ## Primary Course Components
 
 
-* **Lecture**: Lectures will be live and in-person in Evans-10 Mondays and Wednesdays, 1300-1400hrs. They will be recorded, and recordings will be posted on BCourses (see `platforms` section.) Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. <b>Attendance (in-person) is required as part of your grade and will be tracked: for every lecture, there will be a corresponding quiz on Gradescope due the day of the following lecture at 2359hrs. On this quiz, we will ask questions about lecture content, and also ask you for a passphrase that was announced in lecture. No extensions are provided on these quizzes. <br /><br />Your lowest 3 lecture-quiz scores will be automatically dropped — so you can miss up to 3 lectures (or skip 3 quizzes) without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 3 lectures (like prolonged sickness, family emergencies, etc.) then you should email cs10@ and we’ll discuss other options.
+* **Lecture**: Lectures will be live and in-person in Soda-306 Mondays and Wednesdays, 1300-1400hrs. They will be recorded, and recordings will be posted on BCourses (see `platforms` section.) Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. <b>Attendance (in-person) is required as part of your grade and will be tracked: for every lecture, there will be a corresponding quiz on Gradescope due the day of the following lecture at 2359hrs. On this quiz, we will ask questions about lecture content, and also ask you for a passphrase that was announced in lecture. No extensions are provided on these quizzes. <br /><br />Your lowest 3 lecture-quiz scores will be automatically dropped — so you can miss up to 3 lectures (or skip 3 quizzes) without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 3 lectures (like prolonged sickness, family emergencies, etc.) then you should email cs10@ and we’ll discuss other options.
 
 * **Lab Sections**: Labs are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads will be added to our Edstem Forum. If you attend synchronously, then on the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section.<br /><br />Lab assignments will be submitted to Gradescope. There will be two assignments for each lab: one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our synchronous lab sections (which are held in Soda 430), TAs and Academic Interns (AIs) will be available to help you with the problems.<br /><br /><br />Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Monday, and Lab-13 is scheduled on Wednesday, then Lab-12 will be due at midnight on Wednesday.<br /><br />Your lowest 2 lab scores will be dropped.
 
@@ -71,13 +71,13 @@ This Fall, CS10 will run fully in-person. Consequently, remote (or hybrid) stude
 
 | Project                                       |  Submission Deadline     |
 | :----:                                        |  :----:                  |
-| Project 1: Wordle™-lite                       | WED 9/6 on Gradescope    |
-| Project 2: Spelling-Bee                       | TR 9/21 on Gradescope    |
-| Project 3: 2048                               | TR 10/5 on Gradescope    |
-| Project 4: Explore Post                       | FRI 10/20 on Gradescope  |
-| Project 4: Explore Post Comments              | MON 10/23 on Edstem      |
-| Project 5: Pyturis                            | MON 11/6 on PrairieLearn |
-| Project 6: Final Project                      | WED 11/29 on Gradescope  |
+| Project 1: Wordle™-lite                       | MON 1/29 on Gradescope    |
+| Project 2: Spelling-Bee                       | TR 2/15 on Gradescope    |
+| Project 3: 2048                               | TR 2/29 on Gradescope    |
+| Project 4: Explore Post                       | FRI 3/15 on Edstem AND Gradescope |
+| Project 4: Explore Post Comments              | MON 3/18 on Edstem AND Gradescope |
+| Project 5: Pyturis                            | MON 4/1 on PrairieLearn |
+| Project 6: Final Project                      | WED 4/24 on Gradescope  |
 
 **All deadlines are at 2359 hrs (11:59:00 PM.)**
 
@@ -166,7 +166,7 @@ You're also allowed to retroactively obtain extensions without penalty: i.e., yo
 
 ## Lateness Penalties
 
-Any labs or projects that are submitted late will receive half-credit, regardless of how late the submission is. For the project-4 and the final project, late submissions may not be graded since our grading staff has limited availability. If you need an extension, please utilize the extension request forms. 
+Any labs or projects that are submitted late will receive half-credit, regardless of how late the submission is. For the project-4 and the final project, late submissions may not be graded since our grading staff has limited availability. If you need an extension, please utilize the extension request forms. No extensions are provided for Reading Quizzes, and late submissions are not graded.
 
 If, after exhausting the initial extension, you still need more time — please visit us in Support-OH, wherein we'll help you come up with a plan to catch up! Lateness penalties *only* apply if you *don't* obtain an extension (by filling out the form or visiting Support-OH) *and* turn in work late. 
 

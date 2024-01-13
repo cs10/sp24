@@ -7,15 +7,15 @@ nav_order: 1
 
 # **CS 10: The Beauty and Joy of Computing**
 {: .mb-2 }
-UC Berkeley, Fall 2023
+UC Berkeley, Spring 2024 [UNDER CONSTRUCTION]
 {: .mb-2 .fs-6 .text-grey-dk-100 }
 
 {{ site.description }}
 {: .mb-2 .fs-5 }
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a><br/>
-**Instructor's OH:** Friday 1-2PM in Soda-777<br/>
-**Lectures:** Monday, Wednesday 1-2PM in Evans-10<br/>
+**Instructor's OH:** TBD<br/>
+**Lectures:** Monday, Wednesday 1-2PM in Soda-306<br/>
 **OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a>
 {: .fs-4 }
 
