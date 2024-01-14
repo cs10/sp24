@@ -23,13 +23,13 @@ aux_links_new_tab: true
 ga_tracking: UA-47210910-1
 external_navigation:
   - title: Lecture Recordings
-    url: https://bcourses.berkeley.edu/courses/1528263/external_tools/78985
+    url: 
   - title: Ed Discussion
-    url: https://edstem.org/us/courses/43356/discussion/
+    url: 
   - title: Gradescope
-    url: https://www.gradescope.com/courses/579198
+    url: https://www.gradescope.com/courses/707793
   - title: Snap!
-    url: https://snap.berkeley.edu/snap
+    url: https://snap.berkeley.edu/snap/run
 footer_content:
 
 ################################################
