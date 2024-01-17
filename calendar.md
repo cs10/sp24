@@ -15,7 +15,7 @@
     <tr>
       <td rowspan=5>1</td> <!-- Week Number -->
       <th>Mon 1/17</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>No Class</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>No Class</td> <!-- Lab -->
       <td>No Class</td> <!-- Discussion -->
@@ -727,7 +727,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>Postterm Retake-1 Released at 2359hrs.</td> <!-- Assignment -->
+      <td>Postterm 2 Released at 2359hrs (due 5/2).</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 5/1</th> <!-- Date -->
@@ -746,26 +746,26 @@
       <td></td> <!-- Lab -->
       <td>NO CLASS<br/>
         (RRR Week)</td> <!-- Discussion -->
-      <td>Postterm Retake-1 DUE at 2359hrs.</td> <!-- Assignment -->
+      <td>Postterm 2 DUE at 2359hrs.</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 5/3</th> <!-- Date -->
-      <td>Postterm Retake-1 Reviewed 2000-2200hrs @ Soda-306.</td> <!-- Lecture -->
+      <td>Postterm 2 Reviewed 2000-2200hrs @ Soda-306.</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Postterm Retake-2 Released at 2359hrs, Due SUN 12/10 at 2359hrs.</td> <!-- Assignment -->
+      <td>Postterm 3 Released at 2359hrs, Due SUN 4/5 at 2359hrs.</td> <!-- Assignment -->
     </tr>
     <!-- WEEK SEVENTEEN - FINALS WEEK -->
     <tr>
       <td rowspan=5>17</td>
       <th>Mon 5/6</th> <!-- Date -->
-      <td>Postterm Retake-2 Reviewed 1500-1700hrs @ Woz.</td> <!-- Lecture -->
+      <td>Postterm 3 Reviewed 1500-1700hrs @ Woz.</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (Finals Week)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Postterm Retake-3 Released at 2359hrs, due MON 12/18 at 2359hrs.</td> <!-- Assignment -->
+      <td>Postterm 4 Released at 2359hrs, due MON 5/13 at 2359hrs.</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 5/7</th> <!-- Date -->
