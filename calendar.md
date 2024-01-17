@@ -675,7 +675,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">15. Postterm Preparation Session & Farewell</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/fa23/discussion/">14. Postterm Preparation Session & Farewell</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
