@@ -34,8 +34,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 1</td>
       <td>Welcome to Snap!</td>
-      <td><a href="">Worksheet</a></td>
-      <td><a href="">Solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1BHru27pj0chOr7S2GB0yncxL9KgbDRywOkNqLkSSkTU/edit?usp=sharing">Worksheet</a></td>
+      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
       <td><a href="">Recording</a></td>
       <td><a href="">Slides</a></td>
     </tr>
