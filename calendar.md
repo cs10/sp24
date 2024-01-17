@@ -42,7 +42,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">1. Welcome to CS 10!</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp24/discussion/">1. Welcome to CS 10!</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -89,7 +89,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">2. Number Rep & Control Structures</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp24/discussion/">2. Number Rep & Control Structures</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -134,7 +134,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp24/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -178,7 +178,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">4. Algorithms</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp24/discussion/">4. Algorithms</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -226,7 +226,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp24/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
       <td>PROJ 2 Due</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -274,7 +274,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">6. Recursion I</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp24/discussion/">6. Recursion I</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -319,7 +319,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">7. Recursion II</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp24/discussion/">7. Recursion II</a></td> <!-- Discussion -->
       <td>PROJ 3 Due</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -414,7 +414,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">9. Intro to Python</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp24/discussion/">9. Intro to Python</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -468,7 +468,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">10. List Comprehension & Dictionaries</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp24/discussion/">10. List Comprehension & Dictionaries</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -562,8 +562,8 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td>
-      <a href="https://cs10.org/fa23/discussion/">11. OOP</a>
-      <!--<a href="https://cs10.org/fa23/discussion/">12. Python HOFs, Lambdas, Tree Recursion</a></td>--> <!-- Discussion -->
+      <a href="https://cs10.org/sp24/discussion/">11. OOP</a>
+      <!--<a href="https://cs10.org/sp24/discussion/">12. Python HOFs, Lambdas, Tree Recursion</a></td>--> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -653,7 +653,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">13. Social Implications</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp24/discussion/">13. Social Implications</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -696,7 +696,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa23/discussion/">14. Postterm Preparation Session & Farewell</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp24/discussion/">14. Postterm Preparation Session & Farewell</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
