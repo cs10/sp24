@@ -33,7 +33,7 @@
       <th>Wed 1/17 </th> <!-- Date -->
       <td>1. Welcome to CS10 & Abstraction<br/> <a href="https://drive.google.com/file/d/1qmpvhcd_sY3oJFUWm8yFSBxfN0-DwDAr/view?usp=sharing">(slides)</a> </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=&novideo&noreading&noassignment">1. Welcome to Snap!</a><br/>(No checkoff)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=&novideo&noreading&noassignment">1. Welcome to Snap!</a><br/>(No Submission)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
