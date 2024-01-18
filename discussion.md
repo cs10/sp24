@@ -39,8 +39,9 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="">Recording</a></td>
       <td><a href="">Slides</a></td>
     </tr>
+      <!-- 
     <tr>
-      <!-- <td>Discussion 2</td>
+      <td>Discussion 2</td>
       <td>Number Representation, Control, Iteration, Booleans</td>
       <td><a href="https://docs.google.com/document/d/1_0umtodNf-ZmHfsGTT7XJZJDDlmlH-hxSjw5tVCacZ8/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/1YoEWBUgBTKb3up2FKYxCjqHxfZzVCwbO2l372RXidOI/edit?usp=sharing">Solutions</a></td>
