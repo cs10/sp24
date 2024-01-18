@@ -14,7 +14,7 @@ UC Berkeley, Spring 2024 [UNDER CONSTRUCTION]
 {: .mb-2 .fs-5 }
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a><br/>
-**Instructor's OH:** TBD<br/>
+**Instructor's OH:** W 2-3PM Soda-777<br/>
 **Lectures:** Monday, Wednesday 1-2PM in Soda-306<br/>
 **OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a>
 {: .fs-4 }
