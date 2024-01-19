@@ -37,7 +37,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://docs.google.com/document/d/1BHru27pj0chOr7S2GB0yncxL9KgbDRywOkNqLkSSkTU/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://bit.ly/compsci10">Solutions</a></td>
       <td><a href="">Recording</a></td>
-      <td><a href="">Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/18LIv-Rr9NpmILdd12VMPr-MafmWkFAQw/view?usp=sharing">Slides</a></td>
     </tr>
       <!-- 
     <tr>
