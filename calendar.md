@@ -58,7 +58,7 @@
       <td rowspan=5>2</td> <!-- Week Number -->
       <th>Mon 1/22</th> <!-- Date -->
       <td>2. Functions<br/><a href="">(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa22/readings/">Week 2 Readings</a></td> <!-- Readings -->
+      <td><a href="https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf">Week 2 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a><br/>
         (due 1/24)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
