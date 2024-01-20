@@ -80,7 +80,7 @@
       <td>3. Numbers and Abstraction<br/> <a href="">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">3. Conditionals, Reporters, & Abstraction</a><br/>
-        (due 1/31)</td> <!-- Lab -->
+        (due 1/29)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
