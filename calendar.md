@@ -105,7 +105,7 @@
       <td rowspan=5>3</td> <!-- Week Number -->
       <th>Mon 1/29</th> <!-- Date -->
       <td>4. Lists, Scoping, & HOFs<br/><a href="">(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa22/readings/">Week 3 Readings</a></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp24/readings/">Week 3 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs </a><br/>(due 1/31)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release Reading Quiz 2<br/>
@@ -150,7 +150,7 @@
       <td rowspan=5>4</td> <!-- Week Number -->
       <th>Mon 2/5</th> <!-- Date -->
       <td>6. Algorithmic Complexity<br/><a href="">(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa22/readings/">Week 3 Readings</a></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp24/readings/">Week 3 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment"> 6. Algorithmic Complexity</a><br/>
         (due 2/7)</td><!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -195,7 +195,7 @@
       <td rowspan=5>5</td> <!-- Week Number -->
       <th>Mon 2/12</th> <!-- Date -->
       <td>8. Social Implications of Computing: Computers in Education<br/> <a href="">(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa22/readings/">Week 5 Readings</a></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp24/readings/">Week 5 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8. Boards</a><br/>
         (due 2/21)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -246,7 +246,7 @@
       <td rowspan=5>6</td> <!-- Week Number -->
       <th>Mon 2/19</th> <!-- Date -->
       <td>NO CLASS</td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa22/readings/">Week 6 Readings</a></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp24/readings/">Week 6 Readings</a></td> <!-- Readings -->
       <td>NO CLASS</td> <!-- Lab -->
       <td>NO CLASS</td> <!-- Discussion -->
       <td>release Reading Quiz 4<br/>
@@ -292,7 +292,7 @@
       <td rowspan=5>7</td> <!-- Week Number -->
       <th>Mon 2/26</th> <!-- Date -->
       <td>11. Recursion III (Count Change)<br/><a href="">(slides)</a><br/><a href="">(code)</a><br/><a href="">(movies)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa22/readings/">Week 7 Readings </a></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp24/readings/">Week 7 Readings </a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment"> 10. Recursive Reporters</a><br/>
         (due 3/4)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -387,7 +387,7 @@
       <td rowspan=5>9</td> <!-- Week Number -->
       <th>Mon 3/11</th> <!-- Date -->
       <td>15. Python I - Intro <a href=""><br/>(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa22/readings/">Week 9 Readings</a></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp24/readings/">Week 9 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment">12. Welcome to Python</a><br/>
         (due 3/13)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
