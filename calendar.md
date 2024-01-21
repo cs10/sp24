@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <th>Wed 1/17 </th> <!-- Date -->
-      <td>1. Welcome to CS10 & Abstraction<br/> <a href="https://drive.google.com/file/d/1qmpvhcd_sY3oJFUWm8yFSBxfN0-DwDAr/view?usp=sharing">(slides)</a> </td> <!-- Lecture -->
+      <td>1. Welcome to CS10 & Abstraction<br/> <a href="https://drive.google.com/file/d/1qmpvhcd_sY3oJFUWm8yFSBxfN0-DwDAr/view?usp=drive_link">(slides)</a> </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=&novideo&noreading&noassignment">1. Welcome to Snap!</a><br/>(No Submission)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -57,12 +57,12 @@
     <tr>
       <td rowspan=5>2</td> <!-- Week Number -->
       <th>Mon 1/22</th> <!-- Date -->
-      <td>2. Functions<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>2. Functions<br/><a href="https://drive.google.com/file/d/1rJsgvKWAqoxok6bMW5xuMe8Cn3IMXpVg/view?usp=drive_link">(slides)</a></td> <!-- Lecture -->
       <td><a href="https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf">Week 2 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a><br/>
         (due 1/24)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit?usp=sharing">Proj 1: Wordle™ Lite</a><br/>
+      <td><a href="">Proj 1: Wordle™ Lite</a><br/>
         (due 1/29)<br/>
         release Reading Quiz 1<br/>
             (Due 1/26)</td> <!-- Assignment -->
@@ -77,7 +77,7 @@
     </tr>
     <tr>
       <th>Wed 1/24 </th> <!-- Date -->
-      <td>3. Numbers and Abstraction<br/> <a href="">(slides)</a></td> <!-- Lecture -->
+      <td>3. Numbers and Abstraction<br/> <a href="https://drive.google.com/file/d/1rPJGUgCTl6J2u2LfWzBGFtO19769TTKc/view?usp=drive_link">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">3. Conditionals, Reporters, & Abstraction</a><br/>
         (due 1/29)</td> <!-- Lab -->
@@ -104,14 +104,14 @@
     <tr>
       <td rowspan=5>3</td> <!-- Week Number -->
       <th>Mon 1/29</th> <!-- Date -->
-      <td>4. Lists, Scoping, & HOFs<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>4. Lists, Scoping, & HOFs<br/><a href="https://drive.google.com/file/d/1s9o-NjQuEUK3aCxVJbAPP7t3dSgkJKNP/view?usp=drive_link">(slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp24/readings/">Week 3 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs </a><br/>(due 1/31)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release Reading Quiz 2<br/>
         (Due 2/2)<br/>
         PROJ 1 Due<br/>
-        <a href = "https://docs.google.com/document/d/180psa7QELpesRzubYGV-1REMECGmFItsMSA2R8siIZA/edit#heading=h.casab6a7p3lb">Proj 2: Spelling Bee</a><br/>(due 2/15)</td> <!-- Assignment -->
+        <a href = "">Proj 2: Spelling Bee</a><br/>(due 2/15)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 1/30</th> <!-- Date -->
@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <th>Wed 1/31 </th> <!-- Date -->
-      <td>5. Algorithms<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>5. Algorithms<br/><a href="https://drive.google.com/file/d/1sLuiuyYt9Hcm6YJIY2c3avjhWY-F4_No/view?usp=drive_link">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment">5. Algorithms</a><br/>
         (due 2/5)</td> <!-- Lab -->
