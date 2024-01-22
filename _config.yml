@@ -23,9 +23,9 @@ aux_links_new_tab: true
 ga_tracking: UA-47210910-1
 external_navigation:
   - title: Lecture Recordings
-    url: 
+    url: https://www.youtube.com/playlist?list=PLnocShPlK-FsaLJaFkg26MwjMySrz0tSl
   - title: Ed Discussion
-    url: 
+    url: https://edstem.org/us/courses/51264/discussion/
   - title: Gradescope
     url: https://www.gradescope.com/courses/707793
   - title: Snap!
