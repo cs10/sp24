@@ -35,19 +35,19 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Discussion 1</td>
       <td>Welcome to Snap!</td>
       <td><a href="https://docs.google.com/document/d/1BHru27pj0chOr7S2GB0yncxL9KgbDRywOkNqLkSSkTU/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1tV-nvCUgj83caCx7-pU2gNQu_fQ5UsgOcw34EvGLCmw/edit?usp=sharing">Solutions</a></td>
       <td><a href="https://drive.google.com/file/d/1Y_cOc3cMXZDUkS-RSrqiVByzF3syVp6k/view?usp=sharing">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/18LIv-Rr9NpmILdd12VMPr-MafmWkFAQw/view?usp=sharing">Slides</a></td>
-    </tr>
-      <!-- 
+    </tr> 
     <tr>
       <td>Discussion 2</td>
       <td>Number Representation, Control, Iteration, Booleans</td>
-      <td><a href="https://docs.google.com/document/d/1_0umtodNf-ZmHfsGTT7XJZJDDlmlH-hxSjw5tVCacZ8/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://docs.google.com/document/d/1YoEWBUgBTKb3up2FKYxCjqHxfZzVCwbO2l372RXidOI/edit?usp=sharing">Solutions</a></td>
-      <td><a href="https://www.youtube.com/watch?v=FbnrmYiKFvY&list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me&index=7">Recording</a></td>
-      <td><a href="https://drive.google.com/file/d/1RuveJmFwV_Wr07ObNT3LByANqT5g5LEK/view?usp=sharing">Slides</a></td>
+      <td><a href="https://docs.google.com/document/d/1Jh_f4qopJhXX0AYX1lfg9rGiTlK4X2dnk1Q6tsJRYsk/edit?usp=sharing">Worksheet</a></td>
+      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
+      <td><a href="">Recording</a></td>
+      <td><a href="https://drive.google.com/file/d/1UX_NK8r7DvXD44c5uZQBiDCUOZCNelab/view?usp=sharing">Slides</a></td>
     </tr>
+    <!--
      <tr>
       <td>Discussion 3</td>
       <td>Data-types, Domain / Range, Scoping, Lists, & HOFs</td>
