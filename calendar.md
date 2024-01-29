@@ -111,7 +111,7 @@
       <td>release Reading Quiz 2<br/>
         (Due 2/2)<br/>
         PROJ 1 Due<br/>
-        <a href = "">Proj 2: Spelling Bee</a><br/>(due 2/15)</td> <!-- Assignment -->
+        <a href = "https://docs.google.com/document/d/180psa7QELpesRzubYGV-1REMECGmFItsMSA2R8siIZA/edit?usp=sharing">Proj 2: Spelling Bee</a><br/>(due 2/15)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 1/30</th> <!-- Date -->
