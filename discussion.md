@@ -44,7 +44,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Number Representation, Control, Iteration, Booleans</td>
       <td><a href="https://docs.google.com/document/d/1Jh_f4qopJhXX0AYX1lfg9rGiTlK4X2dnk1Q6tsJRYsk/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://bit.ly/compsci10">Solutions</a></td>
-      <td><a href="">Recording</a></td>
+      <td><a href="https://youtu.be/srderPWvV9c">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1UX_NK8r7DvXD44c5uZQBiDCUOZCNelab/view?usp=sharing">Slides</a></td>
     </tr>
     <!--
