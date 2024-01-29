@@ -104,7 +104,7 @@
     <tr>
       <td rowspan=5>3</td> <!-- Week Number -->
       <th>Mon 1/29</th> <!-- Date -->
-      <td>4. Lists, Scoping, & HOFs<br/><a href="https://drive.google.com/file/d/1s9o-NjQuEUK3aCxVJbAPP7t3dSgkJKNP/view?usp=drive_link">(slides)</a><br/><ahref="https://drive.google.com/drive/folders/1sOjmObXeuG_9n-iZSYoj4r1aiuh7z3h-?usp=sharing">(code)</a></td> <!-- Lecture -->
+      <td>4. Lists, Scoping, & HOFs<br/><a href="https://drive.google.com/file/d/1s9o-NjQuEUK3aCxVJbAPP7t3dSgkJKNP/view?usp=drive_link">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1sOjmObXeuG_9n-iZSYoj4r1aiuh7z3h-?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp24/readings/">Week 3 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs </a><br/>(due 1/31)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
