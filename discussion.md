@@ -51,10 +51,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
      <tr>
       <td>Discussion 3</td>
       <td>Data-types, Domain / Range, Scoping, Lists, & HOFs</td>
-      <td><a href="https://docs.google.com/document/d/1tW9krWvFAa9KZOZo3pYTLFtvMc7ZkF7rft6GpzPpOTY/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://docs.google.com/document/d/122o_UIOv4BEcQPzOek-8q1k96fsEuenj9df4QbaYxAI/edit?usp=sharing">Solutions</a></td>
-      <td><a href="https://drive.google.com/file/d/1CabrXD9RDKQWQeal1HTBXPYS7f69Y_bn/view">Recording</a></td>
-      <td><a href="https://drive.google.com/file/d/1RaM1aKCytwbLe-j2rlkKnZMV0X2xRSPj/view?usp=drive_link">Slides</a></td>
+      <td><a href="https://docs.google.com/document/d/1dt7xt9H8T4RVAPbKQoYwrvD-LRT3K5FqjnV15mrLa3A/edit?usp=sharing">Worksheet</a></td>
+      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
+      <td><a href="">Recording</a></td>
+      <td><a href="">Slides</a></td>
     </tr>
     <tr>
       <td>Discussion 4</td>
