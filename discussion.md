@@ -47,7 +47,6 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://youtu.be/srderPWvV9c">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1UX_NK8r7DvXD44c5uZQBiDCUOZCNelab/view?usp=sharing">Slides</a></td>
     </tr>
-    <!--
      <tr>
       <td>Discussion 3</td>
       <td>Data-types, Domain / Range, Scoping, Lists, & HOFs</td>
@@ -56,6 +55,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="">Recording</a></td>
       <td><a href="">Slides</a></td>
     </tr>
+    <!--
     <tr>
       <td>Discussion 4</td>
       <td>Mutability, HOFs, and Quest-Review</td>
