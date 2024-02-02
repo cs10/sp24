@@ -5,7 +5,7 @@ email: vedansh@
 website: https://www.linkedin.com/in/vedanshmalhotra/
 photo: vedansh.png
 ---
-**Office Hours: Tr 1700-1750hrs in Cory-367**
+**Office Hours: Tr 1700-1750hrs in SDH-200**
 
 Hey there! I'm a senior studying Computer Science, Cognitive Science, and Data Science. This is my eighth term teaching at Cal (I've taught in EECS & Cognitive Science), and I've been a Discussion-AI / TA / Head-TA / Summer-Instructor for CS10.\
 \
