@@ -149,8 +149,8 @@
     <tr>
       <td rowspan=5>4</td> <!-- Week Number -->
       <th>Mon 2/5</th> <!-- Date -->
-      <td>6. Algorithmic Complexity<br/><a href="">(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/sp24/readings/">Week 3 Readings</a></td> <!-- Readings -->
+      <td>6. Algorithmic Complexity<br/><a href="https://drive.google.com/file/d/1savEvBXTy8Bjl4LGPmF06LLIZqnhx8t3/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td><a href="https://docs.google.com/document/d/1BsLD6pHpWhpRxL-urtMufsxUqIXBzTVnpWVXNwAT39k/edit?usp=sharing">Week 4 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment"> 6. Algorithmic Complexity</a><br/>
         (due 2/7)</td><!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -166,7 +166,7 @@
     </tr>
     <tr>
       <th>Wed 2/7 </th> <!-- Date -->
-      <td>7. Testing + 2048<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>7. Testing + 2048<br/><a href="https://drive.google.com/file/d/1sXZsSyJzymyr2JwD8n-Cmuto_9biEKfV/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">7. Testing + Proj 3</a><br/>
         (due 2/12)</td> <!-- Lab -->
