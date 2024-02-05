@@ -178,7 +178,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/sp24/discussion/">4. Algorithms</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp24/discussion/">4. Quest-Review & HOFs</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
