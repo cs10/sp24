@@ -51,7 +51,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Discussion 3</td>
       <td>Data-types, Domain / Range, Scoping, Lists, & HOFs</td>
       <td><a href="https://docs.google.com/document/d/1dt7xt9H8T4RVAPbKQoYwrvD-LRT3K5FqjnV15mrLa3A/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/122o_UIOv4BEcQPzOek-8q1k96fsEuenj9df4QbaYxAI/edit?usp=sharing">Solutions</a></td>
       <td><a href="https://www.youtube.com/watch?v=srderPWvV9c">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1neMPi1wj7lgCQz3blFjgNy_bijV51VJz/view?usp=sharing">Slides</a></td>
     </tr>
@@ -59,8 +59,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Discussion 4</td>
       <td>Mutability, HOFs, and Quest-Review</td>
       <td><a href="https://docs.google.com/document/d/1qc9E2CL0IdkQTpAKKa35UGkth2NC25WqM5_ig9rItHY/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
-      <td>NO Recording; see Ed #68.</td>
+      <td><a href="https://docs.google.com/document/d/1gJ_u1ZWIsrh-AQ0RJozuFMZfa_XMjF3W0E3VbENHp44/edit?usp=sharing">Solutions</a></td>
+      <td><a href="https://drive.google.com/file/d/1paSpkUBX5dCMOE0AGSmBfihiayQhL9nC/view?usp=sharing">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1nK_KxtgFV9CUWnG7JaEQbXaBryZbq678/view?usp=sharing">Slides</a></td>
     </tr>
     <!--
