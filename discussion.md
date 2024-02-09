@@ -59,10 +59,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 4</td>
       <td>Mutability, HOFs, and Quest-Review</td>
-      <td><a href="https://docs.google.com/document/d/1r-27JJstbzTC3UPuS3p9AADtRtCB1dEaRv4DhLjKrPM/edit">Worksheet</a></td>
-      <td><a href="https://docs.google.com/document/d/1sIcPK2CmvczHqmy31gKfArKEnSCJQnIXeNDr_mvc4EM/edit?usp=sharing">Solutions</a></td>
-      <td>NO Recording; see Ed #182.</td>
-      <td><a href="https://drive.google.com/file/d/1RaM1aKCytwbLe-j2rlkKnZMV0X2xRSPj/view?usp=drive_link">Slides (Same as DISC-3)</a></td>
+      <td><a href="https://docs.google.com/document/d/1qc9E2CL0IdkQTpAKKa35UGkth2NC25WqM5_ig9rItHY/edit?usp=sharing">Worksheet</a></td>
+      <td><a href="">Solutions</a></td>
+      <td>NO Recording; see Ed #68.</td>
+      <td><a href="https://drive.google.com/file/d/1nK_KxtgFV9CUWnG7JaEQbXaBryZbq678/view?usp=sharing">Slides</a></td>
     </tr>
     <tr>
       <td>Discussion 5</td>
