@@ -235,7 +235,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Reading Quiz 3 Due<br/>
+      <td>Reading Quiz 5 Due<br/>
         <a href= "https://docs.google.com/document/d/16quGw0eUFT__z67uH7NLr-twGBnXriL4SEIkn0XBLaM/edit?usp=sharing"><b>PROJ 3: 2048 Released</b></a><br/>
           (due 2/29)<br/>
           <b>QUEST 2</b> Released SAT 2/17<br/>
@@ -249,7 +249,7 @@
       <td><a href="https://cs10.org/sp24/readings/">Week 6 Readings</a></td> <!-- Readings -->
       <td>NO CLASS</td> <!-- Lab -->
       <td>NO CLASS</td> <!-- Discussion -->
-      <td>release Reading Quiz 4<br/>
+      <td>release Reading Quiz 6<br/>
         (due 2/23)</td> <!-- Assignment -->
     </tr>
     <tr>
