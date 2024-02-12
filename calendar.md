@@ -194,12 +194,12 @@
     <tr>
       <td rowspan=5>5</td> <!-- Week Number -->
       <th>Mon 2/12</th> <!-- Date -->
-      <td>8. Social Implications of Computing: Computers in Education<br/> <a href="">(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/sp24/readings/">Week 5 Readings</a></td> <!-- Readings -->
+      <td>8. Social Implications of Computing: Computers in Education<br/> <a href="https://drive.google.com/file/d/1ULbZsCqn-mW5B-CVDRHfyGZ0WUuV7m8A/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td><a href="https://docs.google.com/document/d/1oGZHuN4wMN94p8mpE-setTa4LyAjqqfrPnLjER0GwH0/edit?usp=sharing">Week 5 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8. Boards</a><br/>
         (due 2/21)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release Reading Quiz 3<br/>
+      <td>Reading Quiz 5 released<br/>
         (due 2/16)</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -215,7 +215,7 @@
     </tr>
     <tr>
       <th>Wed 2/14</th> <!-- Date -->
-      <td>9. Recursion I (Functional)<br/><a href="">(slides)</a><br/><a href="">(code)</a></td> <!-- Lecture -->
+      <td>9. Recursion I (Functional)<br/><a href="">(slides TBA)</a><br/><a href="">(code TBA)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Project-2 Work Session<br/> NO Lab Assignment</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
