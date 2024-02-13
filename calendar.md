@@ -215,7 +215,7 @@
     </tr>
     <tr>
       <th>Wed 2/14</th> <!-- Date -->
-      <td>9. Recursion I (Functional)<br/><a href="">(slides TBA)</a><br/><a href="">(code TBA)</a></td> <!-- Lecture -->
+      <td>9. Recursion I (Functional)<br/><a href="https://drive.google.com/file/d/1t0a7pLjz0xMkJwYSBBrtIIJBKexatJSC/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1t4EPVysq7A9n8yTP_jhQKBiKupMb03Dm?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Project-2 Work Session<br/> NO Lab Assignment</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -262,7 +262,7 @@
     </tr>
     <tr>
       <th>Wed 2/21 </th> <!-- Date -->
-      <td>10. Recursion II (Fractals)<br/><a href="">(slides)</a><br/><a href="">(code)</a></td> <!-- Lecture -->
+      <td>10. Recursion II (Fractals)<br/><a href="https://drive.google.com/file/d/1tXibbboc68k244wgXoc90DVw203NvE2R/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1tWEiuK6p9XH7DHgDJapf0OKVRnWOEvsc?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9. Trees & Fractals</a><br/>
         (due 2/26)</td> <!-- Lab -->
@@ -291,7 +291,7 @@
     <tr>
       <td rowspan=5>7</td> <!-- Week Number -->
       <th>Mon 2/26</th> <!-- Date -->
-      <td>11. Recursion III (Count Change)<br/><a href="">(slides)</a><br/><a href="">(code)</a><br/><a href="">(movies)</a></td> <!-- Lecture -->
+      <td>11. Recursion III (Count Change)<br/><a href="https://drive.google.com/file/d/1tJ544pSQKVGbJVvV1iH5_3M8ODZu3hMT/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1tgWz8c-sweWtSEgE_jcyYvRM49QPl2iE?usp=sharing">(code)</a><br/><a href="https://drive.google.com/drive/folders/1tj48RVdMZyheaisnH28n_3hbQvSZOHBd?usp=sharing">(movies)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp24/readings/">Week 7 Readings </a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment"> 10. Recursive Reporters</a><br/>
         (due 3/4)</td> <!-- Lab -->
