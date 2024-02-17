@@ -63,15 +63,15 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://drive.google.com/file/d/1paSpkUBX5dCMOE0AGSmBfihiayQhL9nC/view?usp=sharing">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1nK_KxtgFV9CUWnG7JaEQbXaBryZbq678/view?usp=sharing">Slides</a></td>
     </tr>
-    <!--
     <tr>
       <td>Discussion 5</td>
       <td>Algorithmic Complexity</td>
       <td><a href="https://docs.google.com/document/d/1aMf_Cdq8euuGD5g-4fRjra3miXztUeGTUAC7jfVOAC4/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://docs.google.com/document/d/1WrXYcbFeR3_xW7tNvyxotH_DNCpR7PaxwEw187RW8k4/edit?usp=sharing">Solutions</a></td>
-      <td><a href="https://youtube.com/playlist?list=PLO1S2CinoAzXXhu0GqFhLeVS3bUr7JV8f">Recording</a></td>
-      <td><a href="https://drive.google.com/file/d/1KixBSrw_eFxW4lDyiaqHt9jHs_UOK9BB/view?usp=sharing">Slides</a></td>
+      <td><a href="">Solutions</a></td>
+      <td><a href="">Recording</a></td>
+      <td><a href="">Slides</a></td>
     </tr>
+    <!--
     <tr>
       <td>Discussion 6</td>
       <td>Recursion</td>
