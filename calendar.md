@@ -246,7 +246,7 @@
       <td rowspan=5>6</td> <!-- Week Number -->
       <th>Mon 2/19</th> <!-- Date -->
       <td>NO CLASS</td> <!-- Lecture -->
-      <td><a href="https://cs10.org/sp24/readings/">Week 6 Readings</a></td> <!-- Readings -->
+      <td><a href="https://docs.google.com/document/d/1qEfzZfcCEqGZCPIF1JxX1PTaILBiN1nS3hL8dzxr_a4/edit?usp=sharing">Week 6 Readings</a></td> <!-- Readings -->
       <td>NO CLASS</td> <!-- Lab -->
       <td>NO CLASS</td> <!-- Discussion -->
       <td>release Reading Quiz 6<br/>
