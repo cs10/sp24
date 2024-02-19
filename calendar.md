@@ -237,7 +237,7 @@
       <td></td> <!-- Discussion -->
       <td>Reading Quiz 5 Due<br/>
         <a href= "https://docs.google.com/document/d/16quGw0eUFT__z67uH7NLr-twGBnXriL4SEIkn0XBLaM/edit?usp=sharing"><b>PROJ 3: 2048 Released</b></a><br/>
-          (due 2/29)<br/>
+          (Checkpoint-1 due 2/21 | Checkpoint-2 due 2/29)<br/>
           <b>QUEST 2</b> Released SAT 2/17<br/>
         (due 2/18)</td> <!-- Assignment -->
     </tr>
@@ -267,7 +267,7 @@
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9. Trees & Fractals</a><br/>
         (due 2/26)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>PROJ-3 Checkpoint-1 Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 2/22</th> <!-- Date -->
@@ -320,7 +320,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/sp24/discussion/">7. Recursion II</a></td> <!-- Discussion -->
-      <td>PROJ 3 Due</td> <!-- Assignment -->
+      <td>PROJ 3 Checkpoit-2 Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 3/1</th> <!-- Date -->
