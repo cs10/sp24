@@ -283,7 +283,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Reading Quiz 4 Due<br/>
+      <td>Reading Quiz 6 Due<br/>
         <b>QUEST 3</b> Released SAT 2/24<br/>
         (due 2/25)</td> <!-- Assignment -->
     </tr>
@@ -296,7 +296,7 @@
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment"> 10. Recursive Reporters</a><br/>
         (due 3/4)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release Reading Quiz 5<br/>(Due 3/1)</td> <!-- Assignment -->
+      <td>release Reading Quiz 7<br/>(Due 3/1)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 2/27</th> <!-- Date -->
