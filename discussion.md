@@ -73,7 +73,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Discussion 6</td>
-      <td>Recursion</td>
+      <td>Linear Recursion</td>
       <td><a href="https://docs.google.com/document/d/1hkVgL1685zKcAkE8osLoyxtc2mFN41WfmGUZxy8I62M/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://bit.ly/compsci10">Solutions</a></td>
       <td><a href="">Recording</a></td>
