@@ -6,7 +6,7 @@ nav_exclude: false
 nav_order: 2
 ---
 
-# Daily Schedule (TBD — Updated Each Week)
+# Daily Schedule (Updated Weekly)
 
 If the calendar below appears blank, make sure you're signed in to your Berkeley email!
 
