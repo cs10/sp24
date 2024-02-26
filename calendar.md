@@ -292,7 +292,7 @@
       <td rowspan=5>7</td> <!-- Week Number -->
       <th>Mon 2/26</th> <!-- Date -->
       <td>11. Recursion III (Count Change)<br/><a href="https://drive.google.com/file/d/1tJ544pSQKVGbJVvV1iH5_3M8ODZu3hMT/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1tgWz8c-sweWtSEgE_jcyYvRM49QPl2iE?usp=sharing">(code)</a><br/><a href="https://drive.google.com/drive/folders/1tj48RVdMZyheaisnH28n_3hbQvSZOHBd?usp=sharing">(movies)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/sp24/readings/">Week 7 Readings </a></td> <!-- Readings -->
+      <td><a href="https://docs.google.com/document/d/1Qz0MkDe8I4wqfgM4oJmfkAFe_O1j1z4kXJ_F3Rnniho/edit?usp=sharing">Week 7 Readings </a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment"> 10. Recursive Reporters</a><br/>
         (due 3/4)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -308,7 +308,7 @@
     </tr>
     <tr>
       <th>Wed 2/28 </th> <!-- Date -->
-      <td>12. Guest Lecture: Saving the World with Computing<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>12. Guest Lecture: Saving the World with Computing<br/><a href="https://drive.google.com/file/d/1GRoIGdinDl47n1Jx9udT5b-HrKXch0E3/view">(slides)</a><br/><a href="https://people.eecs.berkeley.edu/~yelick/">(Professor Katherine (Kathy) Yelick)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 3 Work Session<br/> NO new lab</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -328,7 +328,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><a href="https://docs.google.com/document/d/11ls_i2ZUZHYHgkSaLXk8GO3yS_3SR6y_wdwPeyix3qE/edit"><b>PROJ 4: Explore Post Released</b></a><br/>
+      <td><a href=""><b>PROJ 4: Explore Post [TBA]</b></a><br/>
         (due 3/15)<br/>
         Reading Quiz 5 Due<br/>
         <b>QUEST 4</b> Released SAT 3/2<br/>
