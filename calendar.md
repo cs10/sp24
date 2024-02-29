@@ -456,7 +456,7 @@
     </tr>
     <tr>
       <th>Wed 3/20</th> <!-- Date -->
-      <td>18. Python IV - HOFs <a href=""><br/>(slides)</a><a href="">(code)</a></td> <!-- Lecture -->
+      <td>18. Guest Lecture: Artificial Intelligence<a href = ""><br/>(slides)</a><br/><a href="https://abdulhaim.github.io/">(Marwa Abdulhai)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -532,7 +532,7 @@
     <tr>
       <td rowspan=5>12</td> <!-- Week Number -->
       <th>Mon 4/1</th> <!-- Date -->
-      <td>24. Guest Lecture: Artificial Intelligence<a href = ""><br/>(slides)</a><br/><a href="">(TBD)</a></td><!-- Lecture -->
+      <td>19. Python IV - HOFs<a href = ""><br/>(slides)</a></td><!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1V_RqyOH3epE5iSkQvRNyANnJKCC0Evf9n8WGiqWy3vI/edit?usp=sharing">Week 12 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment"> 15. Text Processing in Python</a><br/>(due 4/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -580,9 +580,8 @@
     <tr>
       <td rowspan=5>13</td> <!-- Week Number -->
       <th>Mon 4/8</th> <!-- Date -->
-      <td>22. Guest Lecture: Human-computer interaction (HCI)<br/>
-      <a href="">(slides)<br/></a>
-      <a href="">(TBD)</a></td> <!-- Lecture -->
+      <td>21. Concurrency<br/>
+      <a href="">(slides)</a><br/></td> <!-- Lecture -->
       <td><a href="https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing">Week 13 Readings</a></td> <!-- Readings -->
       <td>Final Project Proposal Reviews</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -599,7 +598,7 @@
     </tr>
     <tr>
       <th>Wed 4/10</th> <!-- Date -->
-      <td>23. Guest Lecture: Generative AI<br/><a href = "https://drive.google.com/file/d/1oZqKJnlxPvu4geEdBBPYmzhOzWv-kAlf/view?usp=sharing">(slides)</a><br/><a href="https://farid.berkeley.edu/">(Professor Hany Farid)</a></td> <!-- Lecture -->
+      <td>22. Guest Lecture: Human-Computer Interaction (HCI)<br/><a href = "">(slides)</a><br/><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/paulos.html">(Professor Eric Paulos)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries </a><br/> (due 4/15)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -625,7 +624,7 @@
     <tr>
       <td rowspan=5>14</td> <!-- Week Number -->
       <th>Mon 4/15</th> <!-- Date -->
-      <td>26. Guest Lecture: Limits of Computing<br/>(NO slides)<br/><a href="https://people.eecs.berkeley.edu/~minilek/">(Professor Jelani Nelson)</a></td> <!-- Lecture -->
+      <td>23. AI Ethics<br/><a href="">(Slides)</a></td> <!-- Lecture -->
       <td>release Reading Quiz 10<br/>
         (due 4/19)</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment"> 16. Intro to Data Science (Optional)</a><br/></td> <!-- Lab -->
@@ -642,7 +641,8 @@
     </tr>
     <tr>
       <th>Wed 4/17</th> <!-- Date -->
-      <td>21. Concurrency<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>24. Generative AI<br/><a href="">(slides)</a><br/>
+      <a href="https://www.efleisig.com/">(Eve Fleisig)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">17. Concurrency</a><br/> (due 4/22)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
