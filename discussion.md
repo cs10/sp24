@@ -76,7 +76,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Linear Recursion</td>
       <td><a href="https://docs.google.com/document/d/1hkVgL1685zKcAkE8osLoyxtc2mFN41WfmGUZxy8I62M/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/1iIXpPlGYuafEi76zq8U29xF2REnE7sSqEMbc1k1SgiM/edit?usp=sharing">Solutions</a></td>
-      <td><a href="https://youtu.be/WC04d2Oxj2E"">Recording</a></td>
+      <td><a href="https://youtu.be/WC04d2Oxj2E">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1GZZyEsSDa07zVPPaJw-KmzEa6Rwc9bIx/view?usp=sharing">Slides</a></td>
     </tr>
     <tr>
