@@ -75,19 +75,19 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Discussion 6</td>
       <td>Linear Recursion</td>
       <td><a href="https://docs.google.com/document/d/1hkVgL1685zKcAkE8osLoyxtc2mFN41WfmGUZxy8I62M/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
-      <td><a href="">Recording</a></td>
+      <td><a href="https://docs.google.com/document/d/1iIXpPlGYuafEi76zq8U29xF2REnE7sSqEMbc1k1SgiM/edit?usp=sharing">Solutions</a></td>
+      <td><a href="https://youtu.be/WC04d2Oxj2E"">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1GZZyEsSDa07zVPPaJw-KmzEa6Rwc9bIx/view?usp=sharing">Slides</a></td>
     </tr>
-    <!--
     <tr>
       <td>Discussion 7</td>
       <td>Tree Recursion</td>
-      <td><a href="https://docs.google.com/document/d/1-rlnT6UUdgw6-xAMNmopU5A7WesLM7BqlauQDCIJnsk/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://docs.google.com/document/d/1vbsJAwFBb97qUvSAn3MOXxVQTaq4xJpB8b-JHUEMC4E/edit?usp=sharing">Solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/15mPLV6plJDJmFJgpsitVBMKP8PlA9E33sxH4gslFKN0/edit?usp=sharing">Worksheet</a></td>
+      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
       <td><a href="https://www.youtube.com/watch?v=FHMjAeLKYe4&list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me&index=2">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1GLWqkz5TdHHnaurDmX79XZOP5GuUx2S4/view?usp=sharing">Slides</a></td>
     </tr>
+    <!--
     <tr>
       <td>Discussion 8</td>
       <td>Midterm Review</td>
