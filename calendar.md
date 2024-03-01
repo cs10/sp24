@@ -366,7 +366,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>NO DISCUSSION CLASS</td> <!-- Discussion -->
+      <td><td><a href="https://cs10.org/sp24/discussion/">8. Midterm Review + more Tree-Recursion</a></td></td> <!-- Discussion -->
       <td>Midterm 1 (without Snap!) released<br/>
         (due 3/8)</td> <!-- Assignment -->
     </tr>
