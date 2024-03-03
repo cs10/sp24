@@ -328,7 +328,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><a href=""><b>PROJ 4: Explore Post [TBA]</b></a><br/>
+      <td><a href="https://docs.google.com/document/d/11ls_i2ZUZHYHgkSaLXk8GO3yS_3SR6y_wdwPeyix3qE/edit?usp=sharing"><b>PROJ 4: Explore Post</b></a><br/>
         (due 3/15)<br/>
         Reading Quiz 5 Due<br/>
         <b>QUEST 4</b> Released SAT 3/2<br/>
