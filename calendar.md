@@ -338,7 +338,7 @@
     <tr>
       <td rowspan=5>8</td> <!-- Week Number -->
       <th>Mon 3/4</th> <!-- Date -->
-      <td>13. Procedures as Data<br/><a href="">(slides)</a><br/><a href="">(code)</a></td> <!-- Lecture -->
+      <td>13. Procedures as Data<br/><a href="https://drive.google.com/file/d/1vuoUdSvUSP1GQ_pULjfVyxpczeu5uH5O/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1vvPRL5lNJLz0cI_-WQrHg620MnxQOKWH?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td>NO Readings.</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment">11. Functions as Data, HOFs</a><br/>
         (due 3/11)</td> <!-- Lab -->
@@ -355,7 +355,7 @@
     </tr>
     <tr>
       <th>Wed 3/6 </th> <!-- Date -->
-      <td>14. Programming Paradigms<br/><a href="">(slides)</a><br/><a href="">(code)</a></td> <!-- Lecture -->
+      <td>14. Programming Paradigms<br/><a href="https://drive.google.com/file/d/1vxA-3Ik2HTCIdKMsNBXjPbRy9mMT2t8A/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1vwtSzygA4zNx-Q8dgIpBYgowJTj1Xkra?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Midterm Work Session (No assignment)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -367,19 +367,17 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><td><a href="https://cs10.org/sp24/discussion/">8. Midterm Review + more Tree-Recursion</a></td></td> <!-- Discussion -->
-      <td>Midterm 1 (without Snap!) released<br/>
-        (due 3/8)</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 3/8</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>NO CLASS<br/>
-        (MIDTERM 1)</td> <!-- Discussion -->
-      <td>MIDTERM 1 (with Snap!)<br/>
+      <td><a href="https://cs10.org/sp24/discussion">Midterm Review Session</a></td> <!-- Discussion -->
+      <td>Midterm-1 Released SAT 3/9<br/>
         (due 3/10)<br/>
-        <b>QUEST 5</b> Released SAT 3/9<br/>
+        <b>Quest-5</b> Released SAT 3/9<br/>
         (due 3/10)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK NINE -->
