@@ -366,7 +366,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><td><a href="https://cs10.org/sp24/discussion/">8. Midterm Review + more Tree-Recursion</a></td></td> <!-- Discussion -->
+      <td><td><a href="https://cs10.org/sp24/discussion/">8. Midterm Review + Tree-Recursion</a></td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -374,7 +374,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/sp24/discussion">Midterm Review Session</a></td> <!-- Discussion -->
+      <td></td> <!-- Discussion -->
       <td>Midterm-1 Released SAT 3/9<br/>
         (due 3/10)<br/>
         <b>Quest-5</b> Released SAT 3/9<br/>
