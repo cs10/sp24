@@ -1,6 +1,6 @@
 ---
 name: Diana Seo
-role: Academic Intern
+role: AI
 email: syb0127@
 website: https://www.linkedin.com/in/diana-seo/?locale=en_US
 photo: diana_seo.jpg

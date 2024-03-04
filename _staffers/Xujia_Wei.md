@@ -1,6 +1,6 @@
 ---
 name: Xujia Wei
-role: Academic Intern
+role: AI
 email: xujiawei_jessica@
 website: https://www.linkedin.com/in/jessica-xujia-wei/
 photo: xujia_wei.png
