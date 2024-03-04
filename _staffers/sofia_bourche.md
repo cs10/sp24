@@ -1,9 +1,8 @@
 ---
 name: Sofia Bourche
-role: AI
+role: OH TA
 email: sbourche@
 website: https://www.linkedin.com/in/sofia-bourche/
-photo: sofia.png
+photo: Sofia_Bourche.jpg
 ---
-Hey everyone! I’m a senior studying Computer Science from San Diego, CA. This will be my 6th semester as an AI for CS10 and I was a Tutor this summer as well. I discovered my love for programming as a student in this class, and I hope that you will too! In my free time, I enjoy dancing on The Cal Dance Team, baking, surfing, traveling and teaching!
-
+Hey everyone! I’m a senior studying Computer Science from San Diego, CA. I've been an AI for CS10 for 5 semesters and have served as a Tutor as well. I discovered my love for programming as a student in CS10, and I hope you will too! In my free time, I enjoy dance, baking, surfing, traveling and teaching!

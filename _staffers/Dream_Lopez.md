@@ -1,6 +1,6 @@
 ---
 name: Dream Lopez
-role: Academic Intern
+role: OH TA
 email: dreamlopez@
 website: 
 photo: Dream_Lopez.jpg

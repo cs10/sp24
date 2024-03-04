@@ -43,3 +43,12 @@ nav_order: 10
   {{ staffer }}
   {% endfor %}
 </div>
+
+## Academic Interns
+
+{% assign AI = site.staffers | where: 'role', 'Academic Interns' %}
+<div class="role">
+  {% for staffer in AI %}
+  {{ staffer }}
+  {% endfor %}
+</div>
