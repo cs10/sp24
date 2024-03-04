@@ -217,7 +217,7 @@
       <th>Wed 2/14</th> <!-- Date -->
       <td>9. Recursion I (Functional)<br/><a href="https://drive.google.com/file/d/1t0a7pLjz0xMkJwYSBBrtIIJBKexatJSC/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1t4EPVysq7A9n8yTP_jhQKBiKupMb03Dm?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Project-2 Work Session<br/> NO Lab Assignment</td> <!-- Lab -->
+      <td>Project-2 Work Session (No assignment)<br/> NO Lab Assignment</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -310,7 +310,7 @@
       <th>Wed 2/28 </th> <!-- Date -->
       <td>12. Guest Lecture: Saving the World with Computing<br/><a href="https://drive.google.com/file/d/1GRoIGdinDl47n1Jx9udT5b-HrKXch0E3/view">(slides)</a><br/><a href="https://people.eecs.berkeley.edu/~yelick/">(Professor Katherine (Kathy) Yelick)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>PROJ 3 Work Session<br/> NO new lab</td> <!-- Lab -->
+      <td>PROJ 3 Work Session (No assignment)<br/> NO new lab</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -357,7 +357,7 @@
       <th>Wed 3/6 </th> <!-- Date -->
       <td>14. Programming Paradigms<br/><a href="">(slides)</a><br/><a href="">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Midterm Work Session</td> <!-- Lab -->
+      <td>Midterm Work Session (No assignment)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -458,7 +458,7 @@
       <th>Wed 3/20</th> <!-- Date -->
       <td>18. Guest Lecture: Artificial Intelligence<a href = ""><br/>(slides)</a><br/><a href="https://abdulhaim.github.io/">(Marwa Abdulhai)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>PROJ 5 Work Session (No assignment)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td><a href="https://docs.google.com/document/d/1LJOqkvgV2_lQki2LoWDVAPMw-dHyiUcMIBnNmazZ82Y/edit?usp=sharing">(FINAL PROJ Proposal)</a>(due 10/31)<br/>
       </td> <!-- Assignment -->
@@ -583,7 +583,7 @@
       <td>21. Concurrency<br/>
       <a href="">(slides)</a><br/></td> <!-- Lecture -->
       <td><a href="https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing">Week 13 Readings</a></td> <!-- Readings -->
-      <td>Final Project Proposal Reviews</td> <!-- Lab -->
+      <td>Final Project Proposal Reviews (No assignment)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release Reading Quiz 9<br/>
         (due 4/12)</td> <!-- Assignment -->
