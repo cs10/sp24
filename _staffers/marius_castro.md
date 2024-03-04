@@ -1,6 +1,6 @@
 ---
 name: Marius Castro
-role: AI
+role: OH TA
 email: mariuscastro@
 website:
 photo: marius_castro.jpg
