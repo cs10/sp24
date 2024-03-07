@@ -87,15 +87,15 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://www.youtube.com/watch?v=FHMjAeLKYe4&list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me&index=2">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1GLWqkz5TdHHnaurDmX79XZOP5GuUx2S4/view?usp=sharing">Slides</a></td>
     </tr>
-    <!--
     <tr>
       <td>Discussion 8</td>
       <td>Midterm Review</td>
-      <td><a href="https://docs.google.com/document/d/1KTdfe-eUs49UgzWi_sW8e3KeQAfIvPZpggAtZQ4o8fU/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://docs.google.com/document/d/1zQoFTKKSPSNVtKFOg0V6oaNdQc9AL2OUHCOFJkEkKzQ/edit?usp=sharing">Solutions</a></td>
-      <td>NO Recording. See Ed #459</td>
+      <td><a href="https://docs.google.com/document/d/1f-nIK--1NGM5FPRqCfWbvfnJanDqcO-UgkhrFJw1uKk/edit?usp=sharing">Worksheet</a></td>
+      <td><a href="">Solutions</a></td>
+      <td>NO Recording. See Ed #146</td>
       <td>NO Slides</td>
     </tr>
+    <!--
      <tr>
       <td>Discussion 9</td>
       <td>Welcome to Python!</td>
