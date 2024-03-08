@@ -91,7 +91,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Discussion 8</td>
       <td>Midterm Review</td>
       <td><a href="https://docs.google.com/document/d/1f-nIK--1NGM5FPRqCfWbvfnJanDqcO-UgkhrFJw1uKk/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="">Solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1zZrECEIY4m1uciAAx-kXMRBHTgzOtsLOxUS9ooh5EZI/edit?usp=sharing">Solutions</a></td>
       <td>NO Recording. See Ed #146</td>
       <td>NO Slides</td>
     </tr>
