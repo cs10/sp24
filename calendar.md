@@ -384,8 +384,8 @@
     <tr>
       <td rowspan=5>9</td> <!-- Week Number -->
       <th>Mon 3/11</th> <!-- Date -->
-      <td>15. Python I - Intro <a href=""><br/>(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/sp24/readings/">Week 9 Readings</a></td> <!-- Readings -->
+      <td>15. Python I - Intro <a href="https://drive.google.com/file/d/1vzLi_wZIn5ATavZh1Usg9-Bi2EsC3s4L/view?usp=sharing"><br/>(slides)</a></td> <!-- Lecture -->
+      <td><a href="https://docs.google.com/document/d/1tEBOb2XV4VvwsndNEW5PmZZz6yXPBoL8nsfu9zjtZGk/edit?usp=sharing">Week 9 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment">12. Welcome to Python</a><br/>
         (due 3/13)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -401,7 +401,7 @@
     </tr>
     <tr>
       <th>Wed 3/13</th> <!-- Date -->
-      <td>16. Python II - Data Types & Structures<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>16. Python II - Data Types & Structures<br/><a href="https://drive.google.com/file/d/1w0iVH9JKsHaXOSndB9kUCpACc_4oS814/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">13. Data Structures in Python</a><br/>(due 3/18)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
