@@ -401,7 +401,7 @@
     </tr>
     <tr>
       <th>Wed 3/13</th> <!-- Date -->
-      <td>16. Python II - Data Types & Structures<br/><a href="https://drive.google.com/file/d/1w0iVH9JKsHaXOSndB9kUCpACc_4oS814/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>16. Python II - Data Types & Structures<br/><a href="https://drive.google.com/file/d/1rjKBhOdCWhc__BCkTOL90bUozY3r1MfN/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">13. Data Structures in Python</a><br/>(due 3/18)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
