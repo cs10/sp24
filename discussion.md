@@ -83,7 +83,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Discussion 7</td>
       <td>Tree Recursion</td>
       <td><a href="https://docs.google.com/document/d/15mPLV6plJDJmFJgpsitVBMKP8PlA9E33sxH4gslFKN0/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/19mqBkocCuesuTkhyYoNo2ZSSwZdFIV_X-L98NN7jW-g/edit?usp=sharing">Solutions</a></td>
       <td><a href="https://www.youtube.com/watch?v=FHMjAeLKYe4&list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me&index=2">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1GLWqkz5TdHHnaurDmX79XZOP5GuUx2S4/view?usp=sharing">Slides</a></td>
     </tr>
