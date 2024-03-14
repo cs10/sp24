@@ -95,15 +95,15 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>NO Recording. See Ed #146</td>
       <td>NO Slides</td>
     </tr>
-    <!--
      <tr>
       <td>Discussion 9</td>
       <td>Welcome to Python!</td>
-      <td><a href="https://docs.google.com/document/d/1VnI5gSkG49T9vR2VCKiaDGFcj_5v0HjUcah-bm5x92E/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1meq0BPUdpS-l-FowV4v2typHblvLDLcV?usp=sharing">Solutions [& Starter Code!]</a></td>
-      <td><a href="https://drive.google.com/file/d/1ka00W-sCg0eZAB8bve0C-CgL2-2sSStH/view">Recording</a></td>
+      <td><a href="https://docs.google.com/document/d/1YGInS8RdgJcsDxCNSMM3BPBiLgMqRgw-xWZknN867IA/edit?usp=sharing">Worksheet</a></td>
+      <td><a href="https://bit.ly/compsci10">Solutions [& Starter Code!]</a></td>
+      <td><a href="">Recording [TBD]</a></td>
       <td>NO Slides</td>
     </tr>
+    <!--
     <tr>
     <td>Discussion 10</td>
       <td>Python Data Structues</td>
