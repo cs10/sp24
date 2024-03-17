@@ -67,7 +67,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Discussion 5</td>
       <td>Algorithmic Complexity</td>
       <td><a href="https://docs.google.com/document/d/1aMf_Cdq8euuGD5g-4fRjra3miXztUeGTUAC7jfVOAC4/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="">Solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1iDZ6xeAcUUeqP-tss_mIEei4en33uzNfRXuka_JAd_w/edit?usp=sharing">Solutions</a></td>
       <td><a href="https://drive.google.com/file/d/1RtBfLBMV6Td2BHRtnvJjRK23za6MgPv-/view">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1B_CEx-8Fo_8ndQfdT77SR10qwChk3LoZ/view?usp=sharing">Slides</a></td>
     </tr>
