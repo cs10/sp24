@@ -103,17 +103,18 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://drive.google.com/file/d/1zJKdhlgdq2QeEJmj32ZCKyPk3asDH2Vy/view">Recording</a></td>
       <td>NO Slides</td>
     </tr>
-    <!--
     <tr>
     <td>Discussion 10</td>
       <td>Python Data Structues</td>
-      <td><a href="https://docs.google.com/document/d/1lnQwwWwr6ucKYOHBmtKGqcg5hCzw9wqhJy-Zs-FvgkI/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://docs.google.com/document/d/1LZu7_H2aCtVCsKm53sWEYpp8WFGw9PEBti5YlwAtYOs/edit">Solutions</a></td>
-      <td><a href="https://drive.google.com/file/d/1FdQWd3Ezkjldv7tLDoygK3ZgfVPg__lU/view">Recording</a></td>
-      <td><a href="https://drive.google.com/file/d/137_mqwoEGy7ghh8Bg8D_HJGAuE_-zt2F/view?usp=sharing">Slides</a></td>
+      <td><a href="https://docs.google.com/document/d/1rRTFGjqtseDZHVdn7kfVfpS4F4QQUwuXqHHqAqSLPMI/edit?usp=sharing">Worksheet</a></td>
+      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
+      <td><a href="">Recording[TBA]</a></td>
+      <td><a href="https://drive.google.com/file/d/1BuhyZIlB7qTPBNDLIOb-n4F2X9sIK_gQ/view">Slides</a></td>
     </tr>
+    <!--
     <tr>
     <td>Discussion 11</td>
+    Old Recording: https://drive.google.com/file/d/1FdQWd3Ezkjldv7tLDoygK3ZgfVPg__lU/view
       <td>OOP in Python</td>
       <td><a href="https://docs.google.com/document/d/1qcxe5dLRjYrLPn9FP7P68nvEpc_IN6qWsj5ITIr-YAo/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/1Ifw6lxnL1gniuxrUYanuXRIaee5QQBFCKbub_HBdqAc/edit?usp=sharing">Solutions</a></td>
