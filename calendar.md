@@ -535,7 +535,7 @@
       <td><a href="https://docs.google.com/document/d/1V_RqyOH3epE5iSkQvRNyANnJKCC0Evf9n8WGiqWy3vI/edit?usp=sharing">Week 12 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment"> 15. Text Processing in Python</a><br/>(due 4/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 5 Due<br/>
+      <td>
         release Reading Quiz 8<br/>
           (due 4/5)</td> <!-- Assignment -->
     </tr>
@@ -571,7 +571,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>Reading Quiz 9 Due<br/>
+      <td>PROJ 5 Due<br/>Reading Quiz 9 Due<br/>
         <b>MIDTERM 4</b> Released SAT 4/6<br/>
         (due 4/7)</td> <!-- Assignment -->
     </tr>
