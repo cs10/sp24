@@ -442,7 +442,7 @@
       <td>
       <a href = "https://blog.trinket.io/why-python/"><b>Reading Quiz 7 released (Due 3/22)</b></a><br/>
         PROJ 4 (COMMENTS) Due<br/>
-        <a href="https://docs.google.com/document/d/1F7aTyPAzyx14un3Aj7uOA4PkexXs1FtmIjRVj_0a06g/edit?usp=sharing"><b>PROJ 5: Pyturis released</b></a>(due 4/1)<br/>
+        <a href="https://docs.google.com/document/d/1F7aTyPAzyx14un3Aj7uOA4PkexXs1FtmIjRVj_0a06g/edit?usp=sharing"><b>PROJ 5: Pyturis released</b></a>(due 4/5)<br/>
           </td> <!-- Assignment -->
     </tr>
     <tr>
