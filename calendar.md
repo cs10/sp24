@@ -440,7 +440,6 @@
       <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python (due 4/1)</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>
-      <a href = "https://blog.trinket.io/why-python/"><b>Reading Quiz 7 released (Due 3/22)</b></a><br/>
         <br/>
         <a href="https://docs.google.com/document/d/1F7aTyPAzyx14un3Aj7uOA4PkexXs1FtmIjRVj_0a06g/edit?usp=sharing"><b>PROJ 5: Pyturis released</b></a>(due 4/5)<br/>
           </td> <!-- Assignment -->
@@ -477,7 +476,7 @@
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>
-      Reading Quiz 7 Due<br/>
+      Week-10 Reading Quiz Due<br/>
       <a href="https://docs.google.com/document/d/1Yl-raRIyRMsdRE6t0U5BnRDrKNJqWZQRkWLDnXmAC2o/edit?usp=sharing">(FINAL PROJ released)</a><br/>
         (due 4/24)<br/>
         <b>MIDTERM 3</b> Released SAT 3/23<br/>
@@ -488,11 +487,10 @@
       <td rowspan=5>11</td> <!-- Week Number -->
       <th>Mon 3/25</th> <!-- Date -->
       <td>NO CLASS</td> <!-- Lecture -->
-      <td><a href="https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/">Week 11 Readings</a></td> <!-- Readings -->
+      <td></td> <!-- Readings -->
       <td>NO CLASS</td> <!-- Lab -->
       <td>NO CLASS</td> <!-- Discussion -->
-      <td><a href="https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/">release Reading Quiz 8</a><br/>
-        (Due 3/29)</td> <!-- Assignment -->
+      <td>NO RQ; enjoy break :)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 3/26</th> <!-- Date -->
