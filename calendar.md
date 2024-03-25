@@ -458,7 +458,7 @@
       <td></td> <!-- Readings -->
       <td>PROJ 5 Work Session (No assignment)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><a href="https://docs.google.com/document/d/1LJOqkvgV2_lQki2LoWDVAPMw-dHyiUcMIBnNmazZ82Y/edit?usp=sharing">(FINAL PROJ Proposal)</a>(due 10/31)<br/>
+      <td><a href="https://docs.google.com/document/d/1vMGTMYPZq9lr7Db9k99R0RN3KUJRoGcaCxhI4pqwlGA/edit?usp=sharing">(FINAL PROJ Proposal)</a>(due 4/2)<br/>
       </td> <!-- Assignment -->
     </tr>
     <tr>
@@ -543,7 +543,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td><a href="https://docs.google.com/document/d/1vMGTMYPZq9lr7Db9k99R0RN3KUJRoGcaCxhI4pqwlGA/edit?usp=sharing">(FINAL PROJ Proposal)</a>(due 4/2)<br/></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 4/3</th> <!-- Date -->
