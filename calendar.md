@@ -522,8 +522,7 @@
       <td></td> <!-- Readings -->
       <td>NO CLASS</td> <!-- Lab -->
       <td>NO CLASS</td> <!-- Discussion -->
-      <td><b>MIDTERM 4</b> Released SAT 3/30<br/>
-        (due 3/31)</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK TWELVE -->
     <tr>
@@ -615,7 +614,8 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Reading Quiz 10 Due<br/></td> <!-- Assignment -->
+      <td>Reading Quiz 10 Due<br/><b>MIDTERM 5</b> Released SAT 3/30<br/>
+        (due 3/31)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK FOURTEEN -->
     <tr>
