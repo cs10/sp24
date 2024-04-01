@@ -532,9 +532,7 @@
       <td>NO RQ in Week-12.</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment"> 15. Text Processing in Python</a><br/>(due 4/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>
-        release Reading Quiz 8<br/>
-      PROJ 4 COMMENTS Due</td> <!-- Assignment -->
+      <td>PROJ 4 COMMENTS Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 4/2</th> <!-- Date -->
