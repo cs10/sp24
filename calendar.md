@@ -528,7 +528,8 @@
     <tr>
       <td rowspan=5>12</td> <!-- Week Number -->
       <th>Mon 4/1</th> <!-- Date -->
-      <td>19. Python IV - HOFs<a href = ""><br/>(slides)</a></td><!-- Lecture -->
+      <td>19. Python IV - HOFs<a href = "https://drive.google.com/file/d/1w6y7Yh6-F3aR_lQzSyNto1nlHXh3K85V/view?usp=sharing">(slides)</a><br/>
+        <a href="https://drive.google.com/drive/folders/1w6ZkKNjExtzli4bDknUXJ-6NO74feMaM?usp=drive_link">(code)</a></td><!-- Lecture -->
       <td>NO RQ in Week-12.</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment"> 15. Text Processing in Python</a><br/>(due 4/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -544,7 +545,7 @@
     </tr>
     <tr>
       <th>Wed 4/3</th> <!-- Date -->
-      <td>20. Python V - Tree Recursion & Game Theory<br/><a href="">(slides)</a><a href="">(code)</a></td><!-- Lecture -->
+      <td>20. Python V - Tree Recursion & Game Theory<br/><a href="https://drive.google.com/file/d/1w9yYqWwLs5ZwIljERKolse_8XDLub8Ep/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1wA9ZcRCDY6EimuL_x-ap1X2pcd2Gy1g7?usp=sharing">(code)</a></td><!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Final Project Proposal Reviews (No assignment)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
