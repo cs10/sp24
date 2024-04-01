@@ -566,7 +566,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>PROJ 5 Due<br/>Reading Quiz 9 Due<br/>
+      <td>PROJ 5 Due<br/>
         <b>MIDTERM 4</b> Released SAT 4/6<br/>
         (due 4/7)</td> <!-- Assignment -->
     </tr>
