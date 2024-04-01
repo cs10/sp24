@@ -529,7 +529,7 @@
       <td rowspan=5>12</td> <!-- Week Number -->
       <th>Mon 4/1</th> <!-- Date -->
       <td>19. Python IV - HOFs<a href = ""><br/>(slides)</a></td><!-- Lecture -->
-      <td><a href="https://docs.google.com/document/d/1V_RqyOH3epE5iSkQvRNyANnJKCC0Evf9n8WGiqWy3vI/edit?usp=sharing">Week 12 Readings</a></td> <!-- Readings -->
+      <td>NO RQ in Week-12.</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment"> 15. Text Processing in Python</a><br/>(due 4/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>
