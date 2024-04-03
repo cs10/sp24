@@ -108,21 +108,23 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Python Data Structues</td>
       <td><a href="https://docs.google.com/document/d/1rRTFGjqtseDZHVdn7kfVfpS4F4QQUwuXqHHqAqSLPMI/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://bit.ly/compsci10">Solutions</a></td>
-      <td><a href="https://drive.google.com/file/d/1ZkEfqewJax46ro5HCydtLR32UTIPxF11/view?usp=sharing">Recording</a></td>
+      <td><a href="">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1BuhyZIlB7qTPBNDLIOb-n4F2X9sIK_gQ/view">Slides</a></td>
     </tr>
-    <!--
     <tr>
     <td>Discussion 11</td>
     Old Recording: https://drive.google.com/file/d/1FdQWd3Ezkjldv7tLDoygK3ZgfVPg__lU/view
       <td>OOP in Python</td>
       <td><a href="https://docs.google.com/document/d/1qcxe5dLRjYrLPn9FP7P68nvEpc_IN6qWsj5ITIr-YAo/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://docs.google.com/document/d/1Ifw6lxnL1gniuxrUYanuXRIaee5QQBFCKbub_HBdqAc/edit?usp=sharing">Solutions</a></td>
-      <td><a href="https://drive.google.com/file/d/1JlWopho5nF4njLor_a5cGCrGvUyRQnqj/view">Recording</a></td>
-      <td><a href="https://drive.google.com/file/d/1XYasKXdK2VI0f6OjlT02Qh0GNB8fdkJt/view?usp=sharing"> Slides-1</a><br/><a href="https://drive.google.com/file/d/1BMOxTK6b2EsR4nCFiMorLrP3jN_0oNWz/view?usp=sharing"> Slides-2</a></td>
+      <td><a href="https:bit.ly/compsci10">Solutions</a></td>
+      <td><a href="">Recording[TBD]</a></td>
+      <td><a href="https://drive.google.com/file/d/1KPuki4BCqR5CxBTVKy5JkAYaQdyVOCq5/view?usp=sharing"> Slides</td>
     </tr>
+    <!--
     <tr>
     <td>Discussion 12</td>
+      DISC-11 SOL: https://docs.google.com/document/d/1Ifw6lxnL1gniuxrUYanuXRIaee5QQBFCKbub_HBdqAc/edit?usp=sharing
+      DISC-11 REC: https://drive.google.com/file/d/1ZkEfqewJax46ro5HCydtLR32UTIPxF11/view?usp=sharing
       <td>Python HOFs, Lambda Expressions, Tree Recursion</td>
       <td><a href="https://docs.google.com/document/d/1uoCxBYcpkIrmfufSwdlLx1z21oJu0vD7ZmckENWsg0k/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/1c6WiM4rl4pNmO2O5pZUrXNBCrJ7yZMyjrTJr5Dp5gN4/edit?usp=sharing">Solutions</a></td>
