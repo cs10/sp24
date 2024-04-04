@@ -113,7 +113,6 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
     <td>Discussion 11</td>
-    Old Recording: https://drive.google.com/file/d/1FdQWd3Ezkjldv7tLDoygK3ZgfVPg__lU/view
       <td>OOP in Python</td>
       <td><a href="https://docs.google.com/document/d/1qcxe5dLRjYrLPn9FP7P68nvEpc_IN6qWsj5ITIr-YAo/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https:bit.ly/compsci10">Solutions</a></td>
