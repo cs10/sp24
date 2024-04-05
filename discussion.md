@@ -107,7 +107,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <td>Discussion 10</td>
       <td>Python Data Structues</td>
       <td><a href="https://docs.google.com/document/d/1rRTFGjqtseDZHVdn7kfVfpS4F4QQUwuXqHHqAqSLPMI/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https://bit.ly/compsci10">Solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1wbOHbFp6hXdNWvUQm6vYZce-U_XU09XrjgplIovdQG0/edit?usp=sharing">Solutions</a></td>
       <td><a href="https://drive.google.com/file/d/1ZkEfqewJax46ro5HCydtLR32UTIPxF11/view">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1BuhyZIlB7qTPBNDLIOb-n4F2X9sIK_gQ/view">Slides</a></td>
     </tr>
@@ -115,15 +115,13 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <td>Discussion 11</td>
       <td>OOP in Python</td>
       <td><a href="https://docs.google.com/document/d/1qcxe5dLRjYrLPn9FP7P68nvEpc_IN6qWsj5ITIr-YAo/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https:bit.ly/compsci10">Solutions</a></td>
-      <td><a href="">Recording[TBD]</a></td>
+      <td><a href="https://docs.google.com/document/d/181i0TmyCGYAL4mGp9KJ9xsB7-sNTjUlbM_8xBPEuehk/edit?usp=sharing">Solutions</a></td>
+      <td><a href="https://drive.google.com/file/d/1ZkEfqewJax46ro5HCydtLR32UTIPxF11/view?usp=sharing">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1KPuki4BCqR5CxBTVKy5JkAYaQdyVOCq5/view?usp=sharing"> Slides</td>
     </tr>
     <!--
     <tr>
     <td>Discussion 12</td>
-      DISC-11 SOL: https://docs.google.com/document/d/1Ifw6lxnL1gniuxrUYanuXRIaee5QQBFCKbub_HBdqAc/edit?usp=sharing
-      DISC-11 REC: https://drive.google.com/file/d/1ZkEfqewJax46ro5HCydtLR32UTIPxF11/view?usp=sharing
       <td>Python HOFs, Lambda Expressions, Tree Recursion</td>
       <td><a href="https://docs.google.com/document/d/1uoCxBYcpkIrmfufSwdlLx1z21oJu0vD7ZmckENWsg0k/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/1c6WiM4rl4pNmO2O5pZUrXNBCrJ7yZMyjrTJr5Dp5gN4/edit?usp=sharing">Solutions</a></td>
