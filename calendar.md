@@ -576,8 +576,8 @@
       <td rowspan=5>13</td> <!-- Week Number -->
       <th>Mon 4/8</th> <!-- Date -->
       <td>21. Concurrency<br/>
-      <a href="">(slides)</a><br/></td> <!-- Lecture -->
-      <td><a href="https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing">Week 13 Readings</a></td> <!-- Readings -->
+      <a href="https://drive.google.com/file/d/1wCldgA4rCzRfNwgHE8B_IlpSoTPh1Oa2/view?usp=sharing">(slides)</a><br/></td> <!-- Lecture -->
+      <td><a href="https://docs.google.com/document/d/1V_RqyOH3epE5iSkQvRNyANnJKCC0Evf9n8WGiqWy3vI/edit?usp=sharing">Week 13 Readings</a></td> <!-- Readings -->
       <td>Final Project Proposal Reviews (No assignment)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release Reading Quiz 9<br/>
@@ -593,7 +593,7 @@
     </tr>
     <tr>
       <th>Wed 4/10</th> <!-- Date -->
-      <td>22. Guest Lecture: Human-Computer Interaction (HCI)<br/><a href = "">(slides)</a><br/><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/paulos.html">(Professor Eric Paulos)</a></td> <!-- Lecture -->
+      <td>22. Guest Lecture: Human-Computer Interaction (HCI)<br/><a href = "https://drive.google.com/file/d/1QU-eG1TuEmx25MW3Xv2FJ-mKxQ4Bf2mb/view">(slides)</a><br/><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/paulos.html">(Professor Eric Paulos)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment"> 17. Concurrency </a><br/> (due 4/15)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -604,7 +604,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td>12. Python HOFs, Lambda Expressions, Tree-Recursion</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -613,8 +613,8 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Reading Quiz 10 Due<br/><b>MIDTERM 5</b> Released SAT 3/30<br/>
-        (due 3/31)</td> <!-- Assignment -->
+      <td>Reading Quiz Week-13 Due<br/><b>MIDTERM 5</b> Released SAT 4/13<br/>
+        (due SUN 4/14)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK FOURTEEN -->
     <tr>
