@@ -529,7 +529,7 @@
     <tr>
       <td rowspan=5>12</td> <!-- Week Number -->
       <th>Mon 4/1</th> <!-- Date -->
-      <td>19. Python IV - HOFs<a href = "https://drive.google.com/file/d/1w6y7Yh6-F3aR_lQzSyNto1nlHXh3K85V/view?usp=sharing">(slides)</a><br/>
+      <td>19. Python IV - HOFs<br/><a href = "https://drive.google.com/file/d/1w6y7Yh6-F3aR_lQzSyNto1nlHXh3K85V/view?usp=sharing">(slides)</a><br/>
         <a href="https://drive.google.com/drive/folders/1w6ZkKNjExtzli4bDknUXJ-6NO74feMaM?usp=drive_link">(code)</a><br/><a href="https://www.youtube.com/watch?v=VYmEOuh1s0c\">(recording)</a></td><!-- Lecture -->
       <td>NO RQ in Week-12.</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment"> 15. Text Processing in Python</a><br/>(due 4/10)</td> <!-- Lab -->
