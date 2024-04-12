@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <th>Wed 1/17 </th> <!-- Date -->
-      <td>1. Welcome to CS10 & Abstraction<br/> <a href="https://drive.google.com/file/d/1qmpvhcd_sY3oJFUWm8yFSBxfN0-DwDAr/view?usp=drive_link">(slides)</a> </td> <!-- Lecture -->
+      <td>1. Welcome to CS10 & Abstraction<br/> <a href="https://drive.google.com/file/d/1qmpvhcd_sY3oJFUWm8yFSBxfN0-DwDAr/view?usp=drive_link">(slides)</a><br/><a href="https://www.youtube.com/watch?v=Bi_-Raus4GM\">(recording)</a> </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=&novideo&noreading&noassignment">1. Welcome to Snap!</a><br/>(No Submission)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -57,7 +57,7 @@
     <tr>
       <td rowspan=5>2</td> <!-- Week Number -->
       <th>Mon 1/22</th> <!-- Date -->
-      <td>2. Functions<br/><a href="https://drive.google.com/file/d/1rJsgvKWAqoxok6bMW5xuMe8Cn3IMXpVg/view?usp=drive_link">(slides)</a></td> <!-- Lecture -->
+      <td>2. Functions<br/><a href="https://drive.google.com/file/d/1rJsgvKWAqoxok6bMW5xuMe8Cn3IMXpVg/view?usp=drive_link">(slides)</a><br/><a href="https://www.youtube.com/watch?v=As3dDFrJ0JM\">(recording)</a></td> <!-- Lecture -->
       <td><a href="https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf">Week 2 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a><br/>
         (due 1/24)</td> <!-- Lab -->
@@ -77,7 +77,7 @@
     </tr>
     <tr>
       <th>Wed 1/24 </th> <!-- Date -->
-      <td>3. Numbers and Abstraction<br/> <a href="https://drive.google.com/file/d/1rPJGUgCTl6J2u2LfWzBGFtO19769TTKc/view?usp=drive_link">(slides)</a></td> <!-- Lecture -->
+      <td>3. Numbers and Abstraction<br/> <a href="https://drive.google.com/file/d/1rPJGUgCTl6J2u2LfWzBGFtO19769TTKc/view?usp=drive_link">(slides)</a><br/><a href="https://www.youtube.com/watch?v=UNdjnvRTUig\">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">3. Conditionals, Reporters, & Abstraction</a><br/>
         (due 1/29)</td> <!-- Lab -->
@@ -104,7 +104,7 @@
     <tr>
       <td rowspan=5>3</td> <!-- Week Number -->
       <th>Mon 1/29</th> <!-- Date -->
-      <td>4. Lists, Scoping, & HOFs<br/><a href="https://drive.google.com/file/d/1s9o-NjQuEUK3aCxVJbAPP7t3dSgkJKNP/view?usp=drive_link">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1sOjmObXeuG_9n-iZSYoj4r1aiuh7z3h-?usp=sharing">(code)</a></td> <!-- Lecture -->
+      <td>4. Lists, Scoping, & HOFs<br/><a href="https://drive.google.com/file/d/1s9o-NjQuEUK3aCxVJbAPP7t3dSgkJKNP/view?usp=drive_link">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1sOjmObXeuG_9n-iZSYoj4r1aiuh7z3h-?usp=sharing">(code)</a><br/><a href="https://www.youtube.com/watch?v=vMNMhzZdioA\">(recording)</a></td> <!-- Lecture -->
       <td><a href="http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub">Week 3 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs </a><br/>(due 1/31)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <th>Wed 1/31 </th> <!-- Date -->
-      <td>5. Algorithms<br/><a href="https://drive.google.com/file/d/1sLuiuyYt9Hcm6YJIY2c3avjhWY-F4_No/view?usp=drive_link">(slides)</a></td> <!-- Lecture -->
+      <td>5. Algorithms<br/><a href="https://drive.google.com/file/d/1sLuiuyYt9Hcm6YJIY2c3avjhWY-F4_No/view?usp=drive_link">(slides)</a><br/><a href="https://www.youtube.com/watch?v=lzIojTbperI\">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment">5. Algorithms</a><br/>
         (due 2/5)</td> <!-- Lab -->
@@ -149,7 +149,7 @@
     <tr>
       <td rowspan=5>4</td> <!-- Week Number -->
       <th>Mon 2/5</th> <!-- Date -->
-      <td>6. Algorithmic Complexity<br/><a href="https://drive.google.com/file/d/1savEvBXTy8Bjl4LGPmF06LLIZqnhx8t3/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>6. Algorithmic Complexity<br/><a href="https://drive.google.com/file/d/1savEvBXTy8Bjl4LGPmF06LLIZqnhx8t3/view?usp=sharing">(slides)</a><br/><a href="https://www.youtube.com/watch?v=ArhOJ5V1bWw\">(recording)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1BsLD6pHpWhpRxL-urtMufsxUqIXBzTVnpWVXNwAT39k/edit?usp=sharing">Week 4 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment"> 6. Algorithmic Complexity</a><br/>
         (due 2/7)</td><!-- Lab -->
@@ -166,7 +166,7 @@
     </tr>
     <tr>
       <th>Wed 2/7 </th> <!-- Date -->
-      <td>7. Testing + 2048<br/><a href="https://drive.google.com/file/d/1sXZsSyJzymyr2JwD8n-Cmuto_9biEKfV/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>7. Testing + 2048<br/><a href="https://drive.google.com/file/d/1sXZsSyJzymyr2JwD8n-Cmuto_9biEKfV/view?usp=sharing">(slides)</a><br/><a href="https://www.youtube.com/watch?v=W6WmaUguUvs\">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">7. Testing + Proj 3</a><br/>
         (due 2/12)</td> <!-- Lab -->
@@ -194,7 +194,7 @@
     <tr>
       <td rowspan=5>5</td> <!-- Week Number -->
       <th>Mon 2/12</th> <!-- Date -->
-      <td>8. Social Implications of Computing: Computers in Education<br/> <a href="https://drive.google.com/file/d/1ULbZsCqn-mW5B-CVDRHfyGZ0WUuV7m8A/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>8. Social Implications of Computing: Computers in Education<br/> <a href="https://drive.google.com/file/d/1ULbZsCqn-mW5B-CVDRHfyGZ0WUuV7m8A/view?usp=sharing">(slides)</a><br/><a href="https://www.youtube.com/watch?v=hV-xK18LER0\">(recording)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1oGZHuN4wMN94p8mpE-setTa4LyAjqqfrPnLjER0GwH0/edit?usp=sharing">Week 5 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8. Boards</a><br/>
         (due 2/21)</td> <!-- Lab -->
@@ -215,7 +215,7 @@
     </tr>
     <tr>
       <th>Wed 2/14</th> <!-- Date -->
-      <td>9. Recursion I (Functional)<br/><a href="https://drive.google.com/file/d/1t0a7pLjz0xMkJwYSBBrtIIJBKexatJSC/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1t4EPVysq7A9n8yTP_jhQKBiKupMb03Dm?usp=sharing">(code)</a></td> <!-- Lecture -->
+      <td>9. Recursion I (Functional)<br/><a href="https://drive.google.com/file/d/1t0a7pLjz0xMkJwYSBBrtIIJBKexatJSC/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1t4EPVysq7A9n8yTP_jhQKBiKupMb03Dm?usp=sharing">(code)</a><br/><a href="https://www.youtube.com/watch?v=F5Hzr5USbb0\">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Project-2 Work Session (No assignment)<br/> NO Lab Assignment</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -262,7 +262,7 @@
     </tr>
     <tr>
       <th>Wed 2/21 </th> <!-- Date -->
-      <td>10. Recursion II (Fractals)<br/><a href="https://drive.google.com/file/d/1tXibbboc68k244wgXoc90DVw203NvE2R/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1tWEiuK6p9XH7DHgDJapf0OKVRnWOEvsc?usp=sharing">(code)</a></td> <!-- Lecture -->
+      <td>10. Recursion II (Fractals)<br/><a href="https://drive.google.com/file/d/1tXibbboc68k244wgXoc90DVw203NvE2R/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1tWEiuK6p9XH7DHgDJapf0OKVRnWOEvsc?usp=sharing">(code)</a><br/><a href="https://www.youtube.com/watch?v=rsZYHT-PnhM\">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9. Trees & Fractals</a><br/>
         (due 2/26)</td> <!-- Lab -->
@@ -291,7 +291,7 @@
     <tr>
       <td rowspan=5>7</td> <!-- Week Number -->
       <th>Mon 2/26</th> <!-- Date -->
-      <td>11. Recursion III (Count Change)<br/><a href="https://drive.google.com/file/d/1tJ544pSQKVGbJVvV1iH5_3M8ODZu3hMT/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1tgWz8c-sweWtSEgE_jcyYvRM49QPl2iE?usp=sharing">(code)</a><br/><a href="https://drive.google.com/drive/folders/1tj48RVdMZyheaisnH28n_3hbQvSZOHBd?usp=sharing">(movies)</a></td> <!-- Lecture -->
+      <td>11. Recursion III (Count Change)<br/><a href="https://drive.google.com/file/d/1tJ544pSQKVGbJVvV1iH5_3M8ODZu3hMT/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1tgWz8c-sweWtSEgE_jcyYvRM49QPl2iE?usp=sharing">(code)</a><br/><a href="https://drive.google.com/drive/folders/1tj48RVdMZyheaisnH28n_3hbQvSZOHBd?usp=sharing">(movies)</a><br/><a href="https://www.youtube.com/watch?v=Nnl1VC1kGzE\">(recording)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1Qz0MkDe8I4wqfgM4oJmfkAFe_O1j1z4kXJ_F3Rnniho/edit?usp=sharing">Week 7 Readings </a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment"> 10. Recursive Reporters</a><br/>
         (due 3/4)</td> <!-- Lab -->
@@ -308,7 +308,7 @@
     </tr>
     <tr>
       <th>Wed 2/28 </th> <!-- Date -->
-      <td>12. Guest Lecture: Saving the World with Computing<br/><a href="https://drive.google.com/file/d/1GRoIGdinDl47n1Jx9udT5b-HrKXch0E3/view">(slides)</a><br/><a href="https://people.eecs.berkeley.edu/~yelick/">(Professor Katherine (Kathy) Yelick)</a></td> <!-- Lecture -->
+      <td>12. Guest Lecture: Saving the World with Computing<br/><a href="https://drive.google.com/file/d/1GRoIGdinDl47n1Jx9udT5b-HrKXch0E3/view">(slides)</a><br/><a href="https://people.eecs.berkeley.edu/~yelick/">(Professor Katherine (Kathy) Yelick)</a><br/><a href="https://www.youtube.com/watch?v=MztLWcPoxlY\">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 3 Work Session (No assignment)<br/> NO new lab</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -338,7 +338,7 @@
     <tr>
       <td rowspan=5>8</td> <!-- Week Number -->
       <th>Mon 3/4</th> <!-- Date -->
-      <td>13. Procedures as Data<br/><a href="https://drive.google.com/file/d/1vuoUdSvUSP1GQ_pULjfVyxpczeu5uH5O/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1vvPRL5lNJLz0cI_-WQrHg620MnxQOKWH?usp=sharing">(code)</a></td> <!-- Lecture -->
+      <td>13. Procedures as Data<br/><a href="https://drive.google.com/file/d/1vuoUdSvUSP1GQ_pULjfVyxpczeu5uH5O/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1vvPRL5lNJLz0cI_-WQrHg620MnxQOKWH?usp=sharing">(code)</a><br/><a href="https://www.youtube.com/watch?v=e6O5muKJOc8\">(recording)</a></td> <!-- Lecture -->
       <td>NO Readings.</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment">11. Functions as Data, HOFs</a><br/>
         (due 3/11)</td> <!-- Lab -->
@@ -355,7 +355,7 @@
     </tr>
     <tr>
       <th>Wed 3/6 </th> <!-- Date -->
-      <td>14. Programming Paradigms<br/><a href="https://drive.google.com/file/d/1vxA-3Ik2HTCIdKMsNBXjPbRy9mMT2t8A/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1vwtSzygA4zNx-Q8dgIpBYgowJTj1Xkra?usp=sharing">(code)</a></td> <!-- Lecture -->
+      <td>14. Programming Paradigms<br/><a href="https://drive.google.com/file/d/1vxA-3Ik2HTCIdKMsNBXjPbRy9mMT2t8A/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1vwtSzygA4zNx-Q8dgIpBYgowJTj1Xkra?usp=sharing">(code)</a><br/><a href="https://www.youtube.com/watch?v=ZF5cu7BzccQ\">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Midterm Work Session (No assignment)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -384,7 +384,7 @@
     <tr>
       <td rowspan=5>9</td> <!-- Week Number -->
       <th>Mon 3/11</th> <!-- Date -->
-      <td>15. Python I - Intro <a href="https://drive.google.com/file/d/1vzLi_wZIn5ATavZh1Usg9-Bi2EsC3s4L/view?usp=sharing"><br/>(slides)</a></td> <!-- Lecture -->
+      <td>15. Python I - Intro <a href="https://drive.google.com/file/d/1vzLi_wZIn5ATavZh1Usg9-Bi2EsC3s4L/view?usp=sharing"><br/>(slides)</a><br/><a href="https://www.youtube.com/watch?v=uCQH95AQjPQ\">(recording)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1tEBOb2XV4VvwsndNEW5PmZZz6yXPBoL8nsfu9zjtZGk/edit?usp=sharing">Week 9 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment">12. Welcome to Python</a><br/>
         (due 3/13)</td> <!-- Lab -->
@@ -401,7 +401,7 @@
     </tr>
     <tr>
       <th>Wed 3/13</th> <!-- Date -->
-      <td>16. Python II - Data Types & Structures<br/><a href="https://drive.google.com/file/d/1BuhyZIlB7qTPBNDLIOb-n4F2X9sIK_gQ/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>16. Python II - Data Types & Structures<br/><a href="https://drive.google.com/file/d/1BuhyZIlB7qTPBNDLIOb-n4F2X9sIK_gQ/view?usp=sharing">(slides)</a><br/><a href="https://www.youtube.com/watch?v=dHnafmSfNus\">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">13. Data Structures in Python</a><br/>(due 3/18)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -435,6 +435,7 @@
       <td>17. Python III - OOP<br/> <a href="https://drive.google.com/file/d/1l8RO0k5tTywD8q14ew3I02KBEpSaXWPI/view?usp=sharing">(slides)</a>
       <a href="https://drive.google.com/file/d/1ouzS40QGP1OHQQ9sd31imgbKRtC_6t5C/view?usp=sharing">(code)</a><br/>
       <a href="https://drive.google.com/file/d/1C__m6AJ90G_6WB0HNY_GtkzSxPdxTwDQ/view?usp=sharing">(mind-map)</a>
+        <br/><a href="https://www.youtube.com/watch?v=jYAU--AMizQ\">(recording)</a>
       </td> <!-- Lecture -->
       <td><a href="https://www.youtube.com/watch?v=7Pq-S557XQU">Week 10 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python (due 4/1)</a></td> <!-- Lab -->
@@ -454,7 +455,7 @@
     </tr>
     <tr>
       <th>Wed 3/20</th> <!-- Date -->
-      <td>18. Guest Lecture: Artificial Intelligence<a href = ""><br/>(slides)</a><br/><a href="https://abdulhaim.github.io/">(Marwa Abdulhai)</a></td> <!-- Lecture -->
+      <td>18. Guest Lecture: Artificial Intelligence<a href = ""><br/>(slides)</a><br/><a href="https://abdulhaim.github.io/">(Marwa Abdulhai)</a><br/><a href="https://www.youtube.com/watch?v=LBxpHcPrmpY\">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 5 Work Session (No assignment)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -529,7 +530,7 @@
       <td rowspan=5>12</td> <!-- Week Number -->
       <th>Mon 4/1</th> <!-- Date -->
       <td>19. Python IV - HOFs<a href = "https://drive.google.com/file/d/1w6y7Yh6-F3aR_lQzSyNto1nlHXh3K85V/view?usp=sharing">(slides)</a><br/>
-        <a href="https://drive.google.com/drive/folders/1w6ZkKNjExtzli4bDknUXJ-6NO74feMaM?usp=drive_link">(code)</a></td><!-- Lecture -->
+        <a href="https://drive.google.com/drive/folders/1w6ZkKNjExtzli4bDknUXJ-6NO74feMaM?usp=drive_link">(code)</a><br/><a href="https://www.youtube.com/watch?v=VYmEOuh1s0c\">(recording)</a></td><!-- Lecture -->
       <td>NO RQ in Week-12.</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment"> 15. Text Processing in Python</a><br/>(due 4/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -545,7 +546,7 @@
     </tr>
     <tr>
       <th>Wed 4/3</th> <!-- Date -->
-      <td>20. Python V - Tree Recursion & Game Theory<br/><a href="https://drive.google.com/file/d/1w9yYqWwLs5ZwIljERKolse_8XDLub8Ep/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1wA9ZcRCDY6EimuL_x-ap1X2pcd2Gy1g7?usp=sharing">(code)</a></td><!-- Lecture -->
+      <td>20. Python V - Tree Recursion & Game Theory<br/><a href="https://drive.google.com/file/d/1w9yYqWwLs5ZwIljERKolse_8XDLub8Ep/view?usp=sharing">(slides)</a><br/><a href="https://drive.google.com/drive/folders/1wA9ZcRCDY6EimuL_x-ap1X2pcd2Gy1g7?usp=sharing">(code)</a><br/><a href="https://www.youtube.com/watch?v=84ToPoi5JTM\">(recording)</a></td><!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Final Project Proposal Reviews (No assignment)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -576,7 +577,7 @@
       <td rowspan=5>13</td> <!-- Week Number -->
       <th>Mon 4/8</th> <!-- Date -->
       <td>21. Concurrency<br/>
-      <a href="https://drive.google.com/file/d/1wCldgA4rCzRfNwgHE8B_IlpSoTPh1Oa2/view?usp=sharing">(slides)</a><br/></td> <!-- Lecture -->
+      <a href="https://drive.google.com/file/d/1wCldgA4rCzRfNwgHE8B_IlpSoTPh1Oa2/view?usp=sharing">(slides)</a><br/><a href="https://www.youtube.com/watch?v=Q1y0Slv2MXQ\">(recording)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1V_RqyOH3epE5iSkQvRNyANnJKCC0Evf9n8WGiqWy3vI/edit?usp=sharing">Week 13 Readings</a></td> <!-- Readings -->
       <td>Final Project Proposal Reviews (No assignment)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -593,7 +594,7 @@
     </tr>
     <tr>
       <th>Wed 4/10</th> <!-- Date -->
-      <td>22. Guest Lecture: Human-Computer Interaction (HCI)<br/><a href = "https://drive.google.com/file/d/1QU-eG1TuEmx25MW3Xv2FJ-mKxQ4Bf2mb/view">(slides)</a><br/><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/paulos.html">(Professor Eric Paulos)</a></td> <!-- Lecture -->
+      <td>22. Guest Lecture: Human-Computer Interaction (HCI)<br/><a href = "https://drive.google.com/file/d/1QU-eG1TuEmx25MW3Xv2FJ-mKxQ4Bf2mb/view">(slides)</a><br/><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/paulos.html">(Professor Eric Paulos)</a><br/><a href="https://www.youtube.com/watch?v=4GhJG-QaomM\">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment"> 17. Concurrency </a><br/> (due 4/15)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
