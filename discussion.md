@@ -124,7 +124,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Python HOFs, Lambda Expressions, Tree Recursion</td>
       <td><a href="https://docs.google.com/document/d/1ArAdGOnpr-BB7QjbkDqneY0jvxoCryLowkmnHrkZSFQ/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https:bit.ly/compsci10">Solutions</a></td>
-      <td><a href="https://www.youtube.com/playlist?list=PLnocShPlK-FvoUBvy1Mr-LuRAyqsDTX6k">Recording</a></td>
+      <td><a href="https://www.youtube.com/watch?v=RP_jZTmObR0&list=PLnocShPlK-FvoUBvy1Mr-LuRAyqsDTX6k&index=18">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1F_Na81uOVIKIi3nq14eUG1Mffc1mv8Ud/view?usp=sharing">Slides</a></td>
     </tr>
     <!--
