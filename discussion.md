@@ -116,7 +116,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>OOP in Python</td>
       <td><a href="https://docs.google.com/document/d/1qcxe5dLRjYrLPn9FP7P68nvEpc_IN6qWsj5ITIr-YAo/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/181i0TmyCGYAL4mGp9KJ9xsB7-sNTjUlbM_8xBPEuehk/edit?usp=sharing">Solutions</a></td>
-      <td><a href="https://drive.google.com/file/d/1ZkEfqewJax46ro5HCydtLR32UTIPxF11/view?usp=sharing">Recording</a></td>
+      <td><a href="https://youtube.com/playlist?list=PLMsOuq00L119gT9H7QQD02YBD0yWoVrGQ">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1KPuki4BCqR5CxBTVKy5JkAYaQdyVOCq5/view?usp=sharing"> Slides</a></td>
     </tr>
     <tr>
@@ -124,7 +124,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Python HOFs, Lambda Expressions, Tree Recursion</td>
       <td><a href="https://docs.google.com/document/d/1ArAdGOnpr-BB7QjbkDqneY0jvxoCryLowkmnHrkZSFQ/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https:bit.ly/compsci10">Solutions</a></td>
-      <td><a href="">Recording[TBD]</a></td>
+      <td><a href="https://www.youtube.com/playlist?list=PLnocShPlK-FvoUBvy1Mr-LuRAyqsDTX6k">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1F_Na81uOVIKIi3nq14eUG1Mffc1mv8Ud/view?usp=sharing">Slides</a></td>
     </tr>
     <!--
