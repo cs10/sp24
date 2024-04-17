@@ -621,7 +621,7 @@
     <tr>
       <td rowspan=5>14</td> <!-- Week Number -->
       <th>Mon 4/15</th> <!-- Date -->
-      <td>23. AI Ethics<br/><a href="https://drive.google.com/file/d/1jvivNI1UlZ-_FMEx0y2KjGGKwQIq_QAc/view?usp=sharing">(Slides)</a></td> <!-- Lecture -->
+      <td>23. AI Ethics<br/><a href="https://drive.google.com/file/d/1jvivNI1UlZ-_FMEx0y2KjGGKwQIq_QAc/view?usp=sharing">(Slides)</a><br/><a href="https://www.youtube.com/watch?v=BNA2_AoYtpM&list=PLnocShPlK-FsaLJaFkg26MwjMySrz0tSl&index=23">(recording)</a></td> <!-- Lecture -->
       <td><a href="https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing">Week-10 Readings</a><br/>
         (due 4/19)</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment"> 16. Intro to Data Science (Optional)</a><br/></td> <!-- Lab -->
@@ -638,7 +638,7 @@
     </tr>
     <tr>
       <th>Wed 4/17</th> <!-- Date -->
-      <td>24. Generative AI<br/><a href="">(slides — TBD)</a><br/>
+      <td>24. Generative AI<br/><a href="https://docs.google.com/presentation/d/14lqthBXrdOEGTxFEeganOulbiZf-KJ5kcKQOzfppSmw/edit?usp=sharing">(slides)</a><br/>
       <a href="https://www.efleisig.com/">(Eve Fleisig)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment">18. Snap! and Python Libraries</a><br/> (due 4/22)</td> <!-- Lab -->
