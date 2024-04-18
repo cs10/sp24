@@ -123,15 +123,13 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <td>Discussion 12</td>
       <td>Python HOFs, Lambda Expressions, Tree Recursion</td>
       <td><a href="https://docs.google.com/document/d/1ArAdGOnpr-BB7QjbkDqneY0jvxoCryLowkmnHrkZSFQ/edit?usp=sharing">Worksheet</a></td>
-      <td><a href="https:bit.ly/compsci10">Solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1c6WiM4rl4pNmO2O5pZUrXNBCrJ7yZMyjrTJr5Dp5gN4/edit?usp=sharing">Solutions</a></td>
       <td><a href="https://www.youtube.com/watch?v=RP_jZTmObR0&list=PLnocShPlK-FvoUBvy1Mr-LuRAyqsDTX6k&index=18">Recording</a></td>
       <td><a href="https://drive.google.com/file/d/1F_Na81uOVIKIi3nq14eUG1Mffc1mv8Ud/view?usp=sharing">Slides</a></td>
     </tr>
     <!--
     <tr>
     <td>Discussion 13</td>
-    D12 REC: https://drive.google.com/file/d/1caTDl_71y4-z3Pxf-ksU8lz2F8FC2GRI/view?usp=sharing
-    D12 SOL: https://docs.google.com/document/d/1c6WiM4rl4pNmO2O5pZUrXNBCrJ7yZMyjrTJr5Dp5gN4/edit?usp=sharing
       <td>Social Implications | Python HOFs and Tree-Recursion Contd.</td>
       <td><a href="https://docs.google.com/document/d/1yE0pWDKPRXptUTteqb79z6qMKBtsKd_DseOTZ5as_A0/edit?usp=sharing">Worksheet</a></td>
       <td><a href="https://drive.google.com/drive/folders/1nbB_DDTJbtfEATqI2zIRYeLfOvfjNFaT?usp=sharing">Solutions</a><br/></td>
