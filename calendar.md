@@ -455,7 +455,7 @@
     </tr>
     <tr>
       <th>Wed 3/20</th> <!-- Date -->
-      <td>18. Guest Lecture: Artificial Intelligence<a href = ""><br/>(slides)</a><br/><a href="https://abdulhaim.github.io/">(Marwa Abdulhai)</a><br/><a href="https://www.youtube.com/watch?v=LBxpHcPrmpY\">(recording)</a></td> <!-- Lecture -->
+      <td>18. Guest Lecture: Artificial Intelligence<a href = "https://docs.google.com/presentation/d/1yRWRHwfJ_xLtdXEkrTvzsy7_hRifjy-HiKa8SNpOqRw/edit?usp=sharing"><br/>(slides)</a><br/><a href="https://abdulhaim.github.io/">(Marwa Abdulhai)</a><br/><a href="https://www.youtube.com/watch?v=LBxpHcPrmpY\">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 5 Work Session (No assignment)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
