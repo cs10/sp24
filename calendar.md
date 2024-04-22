@@ -622,7 +622,7 @@
       <td rowspan=5>14</td> <!-- Week Number -->
       <th>Mon 4/15</th> <!-- Date -->
       <td>23. AI Ethics<br/><a href="https://drive.google.com/file/d/1jvivNI1UlZ-_FMEx0y2KjGGKwQIq_QAc/view?usp=sharing">(Slides)</a><br/><a href="https://www.youtube.com/watch?v=BNA2_AoYtpM&list=PLnocShPlK-FsaLJaFkg26MwjMySrz0tSl&index=23">(recording)</a></td> <!-- Lecture -->
-      <td><a href="https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing">Week-10 Readings</a><br/>
+      <td><a href="https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing">Week-14 Readings</a><br/>
         (due 4/19)</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment"> 16. Intro to Data Science (Optional)</a><br/></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
