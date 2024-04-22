@@ -703,7 +703,7 @@
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td><br/>
-      <b>Postterm RELEASED at 2359hrs.</b><br/>
+      <b>PT-1 RELEASED SAT 4/27, DUE SUN 4/28 2359hrs.</b><br/>
         Reading Quiz Week-15 Due</td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIXTEEN - RRR WEEK-->
@@ -715,16 +715,16 @@
       <td></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (RRR Week)</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td><b>Postterm DUE at 2359hrs.</b></td> <!-- Assignment -->
+      <td>PT-1 REVIEWED 0900 in Woz</td> <!-- Discussion -->
+      <td><b></b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 4/30</th> <!-- Date -->
-      <td>Postterm Exam Reviewed 2000-2200hrs @ Woz.</td> <!-- Lecture -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>Postterm 2 Released at 2359hrs (due 5/2).</td> <!-- Assignment -->
+      <td>PT-2 RELEASED, DUE WED 5/1 at 2359 hrs.</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 5/1</th> <!-- Date -->
@@ -734,35 +734,34 @@
       <td>NO CLASS<br/>
         (RRR Week)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>PT-2 DUE at 2359hrs.</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 5/2</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>NO CLASS<br/>
-        (RRR Week)</td> <!-- Discussion -->
-      <td>Postterm 2 DUE at 2359hrs.</td> <!-- Assignment -->
+      <td>PT-2 REVIEWED 1100 in Woz</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 5/3</th> <!-- Date -->
-      <td>Postterm 2 Reviewed 2000-2200hrs @ Soda-306.</td> <!-- Lecture -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Postterm 3 Released at 2359hrs, Due SUN 4/5 at 2359hrs.</td> <!-- Assignment -->
+      <td>PT-3 RELEASED, DUE SUN 5/5 at 2359hrs.</td> <!-- Assignment -->
     </tr>
     <!-- WEEK SEVENTEEN - FINALS WEEK -->
     <tr>
       <td rowspan=5>17</td>
       <th>Mon 5/6</th> <!-- Date -->
-      <td>Postterm 3 Reviewed 1500-1700hrs @ Woz.</td> <!-- Lecture -->
+      <td>PT-3 Reviewed 1500hrs @ Soda-306</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (Finals Week)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Postterm 4 Released at 2359hrs, due MON 5/13 at 2359hrs.</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 5/7</th> <!-- Date -->
@@ -770,7 +769,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>PT-4 RELEASED, DUE TR 5/9 at 2359hrs.</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 5/8</th> <!-- Date -->
@@ -789,13 +788,13 @@
       <td></td> <!-- Lab -->
       <td>NO CLASS<br/>
         (Finals Week)</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>PT-4 DUE</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 5/10</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>PT-4 REVIEWED 1300hrs SODA-306.</td> <!-- Discussion -->
+      <td>PT-5 RELEASED at 1700hrs, DUE WED 5/15 at 2359hrs.</td> <!-- Assignment -->
     </tr>
