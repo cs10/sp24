@@ -757,11 +757,12 @@
     <tr>
       <td rowspan=5>17</td>
       <th>Mon 5/6</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>NO CLASS<br/>
+        (RRR Week)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (Finals Week)</td> <!-- Lab -->
-      <td>PT-3 Reviewed 1500hrs @ Soda-306</td> <!-- Discussion -->
+      <td>PT-3 REVIEWED 1500hrs @ Soda-306</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
