@@ -666,7 +666,7 @@
     <tr>
       <td rowspan=5>15</td> <!-- Week Number -->
       <th>Mon 4/22</th> <!-- Date -->
-      <td>25. Alumni Panel<a href = "https://docs.google.com/presentation/d/16-ZzF-zExJJ-GETox3PluYKt3oo4QlkG8IrwT91u1Cc/edit?usp=sharing"><br/>(slides)</a></td> <!-- Lecture -->
+      <td>25. Alumni Panel<a href = "https://docs.google.com/presentation/d/16-ZzF-zExJJ-GETox3PluYKt3oo4QlkG8IrwT91u1Cc/edit?usp=sharing"><br/>(slides)</a><br/><a href="https://www.youtube.com/watch?v=4seDERcVrF8&list=PLnocShPlK-FsaLJaFkg26MwjMySrz0tSl&index=25">(recording)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1DMtwqm8ALzRJc4sw6ZUO-FcgYmH5boqJogcsfBeb6Ns/edit?usp=sharing">Week-15 readings</a><br/>
         (due 11/17)</td> <!-- Readings -->
       <td>Final Project Work-Session <br/>NO new lab.</td> <!-- Lab -->
