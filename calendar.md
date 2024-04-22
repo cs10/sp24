@@ -436,6 +436,7 @@
       <a href="https://drive.google.com/file/d/1ouzS40QGP1OHQQ9sd31imgbKRtC_6t5C/view?usp=sharing">(code)</a><br/>
       <a href="https://drive.google.com/file/d/1C__m6AJ90G_6WB0HNY_GtkzSxPdxTwDQ/view?usp=sharing">(mind-map)</a>
         <br/><a href="https://www.youtube.com/watch?v=jYAU--AMizQ\">(recording)</a>
+        <br/><a href="https://docs.google.com/document/d/1eZBfWhOHU66cSjSk_9Eh8iWYeFScYDW1EnTFlVl4kpM/edit?usp=sharing">(IMP: __str__, __add__ methods)</a>
       </td> <!-- Lecture -->
       <td><a href="https://www.youtube.com/watch?v=7Pq-S557XQU">Week 10 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python (due 4/1)</a></td> <!-- Lab -->
