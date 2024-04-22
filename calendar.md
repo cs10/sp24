@@ -639,7 +639,7 @@
     </tr>
     <tr>
       <th>Wed 4/17</th> <!-- Date -->
-      <td>24. Generative AI<br/><a href="https://docs.google.com/presentation/d/14lqthBXrdOEGTxFEeganOulbiZf-KJ5kcKQOzfppSmw/edit?usp=sharing">(slides)</a><br/>
+      <td>24. Generative AI<br/><a href="https://docs.google.com/presentation/d/14lqthBXrdOEGTxFEeganOulbiZf-KJ5kcKQOzfppSmw/edit?usp=sharing">(slides)</a><br/><a href="https://www.youtube.com/watch?v=oL2Gdmzl4HQ&list=PLnocShPlK-FsaLJaFkg26MwjMySrz0tSl&index=24&t=825s">(recording)</a><br/>
       <a href="https://www.efleisig.com/">(Eve Fleisig)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment">18. Snap! and Python Libraries</a><br/> (due 4/22)</td> <!-- Lab -->
