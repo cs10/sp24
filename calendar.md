@@ -716,7 +716,7 @@
       <td></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (RRR Week)</td> <!-- Lab -->
-      <td>PT-1 REVIEWED 0900 in Woz</td> <!-- Discussion -->
+      <td>PT-1 REVIEWED 0900hrs @ Woz</td> <!-- Discussion -->
       <td><b></b></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -742,7 +742,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>PT-2 REVIEWED 1100 in Woz</td> <!-- Discussion -->
+      <td>PT-2 REVIEWED 1100hrs @ Woz</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -797,6 +797,6 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>PT-4 REVIEWED 1300hrs SODA-306.</td> <!-- Discussion -->
+      <td>PT-4 REVIEWED 1300hrs @ SODA-306.</td> <!-- Discussion -->
       <td>PT-5 RELEASED at 1700hrs, DUE WED 5/15 at 2359hrs.</td> <!-- Assignment -->
     </tr>
