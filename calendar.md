@@ -758,7 +758,7 @@
       <td rowspan=5>17</td>
       <th>Mon 5/6</th> <!-- Date -->
       <td>NO CLASS<br/>
-        (RRR Week)</td> <!-- Lecture -->
+        (Finals Week)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (Finals Week)</td> <!-- Lab -->
