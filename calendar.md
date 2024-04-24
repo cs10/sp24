@@ -683,7 +683,7 @@
     </tr>
     <tr>
       <th>Wed 4/24</th> <!-- Date -->
-      <td>26. Conclusion and Farewell<br/><a href="">(slides)</a></td> <!-- Lecture -->
+      <td>26. Conclusion and Farewell<br/><a href="https://drive.google.com/file/d/1JiZBU-5dgN1bU5exP-fICuqtGynN5IVB/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Final Project Work-Session <br/>NO new lab.</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
