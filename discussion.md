@@ -135,7 +135,6 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>NO Recording</td>
       <td>NO Slides</td>
     </tr>
-    <!--
      <tr>
     <td>Discussion 15</td>
       <td>Postterm Review + Conclusion!</td>
