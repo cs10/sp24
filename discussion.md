@@ -142,7 +142,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://docs.google.com/document/d/1FPTy8ip92d-oeeqVE1Jxak-GXnlL9AKae4CPw4f-hLc/edit?usp=sharing">Solutions</a><br/></td>
       <td>NO Recording</td>
       <td>NO Slides</td>
-    </tr> -->
+    </tr>
   </tbody>
 </table>
 
