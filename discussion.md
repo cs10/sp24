@@ -139,8 +139,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <td>Discussion 15</td>
       <td>Postterm Review + Conclusion!</td>
       <td><a href="https://docs.google.com/document/d/1N8mjVrOArVFsgxHfB48096Gv66pCszx_UhaxhyWzgrU/edit?usp=sharing">Worksheet</a></td>
-       <td><a href="https://drive.google.com/drive/folders/1EClj4MROEsVa7gIVP2fC7hWjkFuw-Wj3?usp=sharing">Starter Code</a></td>
-      <td><a href="https://docs.google.com/document/d/1RYIaDYGUu5RT3LK0yEbtH30I7BR4MlYyCxCJ1og1ClY/edit?usp=sharing">Solutions</a><br/></td>
+      <td><a href="https://docs.google.com/document/d/1FPTy8ip92d-oeeqVE1Jxak-GXnlL9AKae4CPw4f-hLc/edit?usp=sharing">Solutions</a><br/></td>
       <td>NO Recording</td>
       <td>NO Slides</td>
     </tr> -->
